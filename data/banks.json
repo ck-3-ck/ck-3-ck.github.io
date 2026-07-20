@@ -1,0 +1,66 @@
+{
+    "version":  1,
+    "generatedAt":  "2026-07-20T13:09:43.0171325Z",
+    "banks":  [
+                  {
+                      "id":  "bills-20250507",
+                      "name":  "票据题库",
+                      "sourceFile":  "20250507-票据题库.et",
+                      "count":  999,
+                      "dataFile":  "/data/banks/bills-20250507.json",
+                      "typeCounts":  {
+                                         "single":  327,
+                                         "multiple":  333,
+                                         "judge":  339
+                                     }
+                  },
+                  {
+                      "id":  "employee-conduct",
+                      "name":  "员工行为题库",
+                      "sourceFile":  "员工行为题库.xlsx",
+                      "count":  138,
+                      "dataFile":  "/data/banks/employee-conduct.json",
+                      "typeCounts":  {
+                                         "single":  55,
+                                         "multiple":  40,
+                                         "judge":  43
+                                     }
+                  },
+                  {
+                      "id":  "customer-manager-2026",
+                      "name":  "客服经理（2026）",
+                      "sourceFile":  "客服经理（2026）.xlsx",
+                      "count":  1499,
+                      "dataFile":  "/data/banks/customer-manager-2026.json",
+                      "typeCounts":  {
+                                         "single":  522,
+                                         "multiple":  469,
+                                         "judge":  508
+                                     }
+                  },
+                  {
+                      "id":  "cash-counterfeit-2026-new-employee",
+                      "name":  "反假货币及现金收付业务题库（2026年版·新员工）",
+                      "sourceFile":  "总行《反假货币及现金收付业务题库》（2026年版）新员工.xls",
+                      "count":  4314,
+                      "dataFile":  "/data/banks/cash-counterfeit-2026-new-employee.json",
+                      "typeCounts":  {
+                                         "single":  1437,
+                                         "multiple":  1138,
+                                         "judge":  1739
+                                     }
+                  },
+                  {
+                      "id":  "super-counter",
+                      "name":  "超级柜台业务知识题库",
+                      "sourceFile":  "超级柜台业务知识题库.xlsx",
+                      "count":  617,
+                      "dataFile":  "/data/banks/super-counter.json",
+                      "typeCounts":  {
+                                         "single":  246,
+                                         "multiple":  176,
+                                         "judge":  195
+                                     }
+                  }
+              ]
+}
