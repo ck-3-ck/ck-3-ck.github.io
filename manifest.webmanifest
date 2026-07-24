@@ -1,7 +1,7 @@
 {
   "name": "掌上刷题",
   "short_name": "刷题",
-  "description": "支持 iPhone 和 iPad 完整离线使用的 Safari 刷题工具",
+  "description": "支持 iPhone 和 iPad 完整离线使用，并通过 IndexedDB 保存学习记录的 Safari 刷题工具",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",

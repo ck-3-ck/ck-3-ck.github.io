@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v3-ipad-offline";
+const CACHE_NAME = "pocket-quiz-v7-mobile-indexeddb";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [
