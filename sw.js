@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v7-mobile-indexeddb";
+const CACHE_NAME = "pocket-quiz-v8-http-error-fallback";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [
@@ -16,6 +16,10 @@ const CORE_ASSETS = [
   "data/banks/cash-counterfeit-2026-new-employee.json",
   "data/banks/super-counter.json"
 ].map(scopedAsset);
+
+async function appShellFallback(response) {
+  return (await caches.match(APP_SHELL)) ?? response ?? Response.error();
+}
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -71,12 +75,14 @@ self.addEventListener("fetch", (event) => {
   if (request.mode === "navigate") {
     event.respondWith(
       fetch(request)
-        .then((response) => {
+        .then(async (response) => {
+          if (!response.ok) return appShellFallback(response);
+
           const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(APP_SHELL, copy));
+          await caches.open(CACHE_NAME).then((cache) => cache.put(APP_SHELL, copy));
           return response;
         })
-        .catch(() => caches.match(APP_SHELL))
+        .catch(() => appShellFallback())
     );
     return;
   }
