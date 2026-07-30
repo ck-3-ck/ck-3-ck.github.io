@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v14-grouped-exam-types";
+const CACHE_NAME = "pocket-quiz-v15-version-label";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [
