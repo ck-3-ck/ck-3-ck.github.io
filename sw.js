@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v15-version-label";
+const CACHE_NAME = "pocket-quiz-v16-cash-counterfeit-refresh";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [

@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "generatedAt":  "2026-07-20T13:09:43.0171325Z",
+    "generatedAt":  "2026-08-03T13:25:37.5544849Z",
     "banks":  [
                   {
                       "id":  "bills-20250507",
@@ -41,13 +41,13 @@
                   {
                       "id":  "cash-counterfeit-2026-new-employee",
                       "name":  "反假货币及现金收付业务题库（2026年版·新员工）",
-                      "sourceFile":  "总行《反假货币及现金收付业务题库》（2026年版）新员工.xls",
-                      "count":  4314,
+                      "sourceFile":  "总行《反假货币及现金收付业务题库》（2026年版）新员工删减版.xls",
+                      "count":  1896,
                       "dataFile":  "/data/banks/cash-counterfeit-2026-new-employee.json",
                       "typeCounts":  {
-                                         "single":  1437,
-                                         "multiple":  1138,
-                                         "judge":  1739
+                                         "single":  603,
+                                         "multiple":  542,
+                                         "judge":  751
                                      }
                   },
                   {
