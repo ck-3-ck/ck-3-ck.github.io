@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v16-cash-counterfeit-refresh";
+const CACHE_NAME = "pocket-quiz-v17-customer-manager-2025";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [
@@ -13,6 +13,7 @@ const CORE_ASSETS = [
   "data/banks/bills-20250507.json",
   "data/banks/employee-conduct.json",
   "data/banks/customer-manager-2026.json",
+  "data/banks/customer-manager-2025.json",
   "data/banks/cash-counterfeit-2026-new-employee.json",
   "data/banks/super-counter.json"
 ].map(scopedAsset);

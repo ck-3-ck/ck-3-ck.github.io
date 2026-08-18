@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "generatedAt":  "2026-08-03T13:25:37.5544849Z",
+    "generatedAt":  "2026-08-18T00:00:00.000Z",
     "banks":  [
                   {
                       "id":  "bills-20250507",
@@ -36,6 +36,18 @@
                                          "single":  522,
                                          "multiple":  469,
                                          "judge":  508
+                                     }
+                  },
+                  {
+                      "id":  "customer-manager-2025",
+                      "name":  "客服经理（2025）",
+                      "sourceFile":  "客服经理2025.xlsx",
+                      "count":  1500,
+                      "dataFile":  "/data/banks/customer-manager-2025.json",
+                      "typeCounts":  {
+                                         "single":  524,
+                                         "multiple":  443,
+                                         "judge":  533
                                      }
                   },
                   {
