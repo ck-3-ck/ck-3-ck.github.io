@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "generatedAt":  "2026-08-18T00:00:00.000Z",
+    "generatedAt":  "2026-09-08T00:00:00.000Z",
     "banks":  [
                   {
                       "id":  "bills-20250507",
@@ -36,6 +36,30 @@
                                          "single":  522,
                                          "multiple":  469,
                                          "judge":  508
+                                     }
+                  },
+                  {
+                      "id":  "bills-jiangsu-926",
+                      "name":  "江苏分行票据业务综合能力考试复习题库（926题）",
+                      "sourceFile":  "江苏分行票据业务综合能力考试复习题库（加试题解析）926题.et",
+                      "count":  926,
+                      "dataFile":  "/data/banks/bills-jiangsu-926.json",
+                      "typeCounts":  {
+                                         "single":  316,
+                                         "multiple":  333,
+                                         "judge":  277
+                                     }
+                  },
+                  {
+                      "id":  "bills-mock",
+                      "name":  "票据模拟题",
+                      "sourceFile":  "票据模拟题.et",
+                      "count":  267,
+                      "dataFile":  "/data/banks/bills-mock.json",
+                      "typeCounts":  {
+                                         "single":  73,
+                                         "multiple":  92,
+                                         "judge":  102
                                      }
                   },
                   {

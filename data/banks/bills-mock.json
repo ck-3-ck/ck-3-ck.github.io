@@ -1,0 +1,9401 @@
+{
+  "id": "bills-mock",
+  "name": "票据模拟题",
+  "sourceFile": "票据模拟题.et",
+  "questions": [
+    {
+      "id": "bills-mock-single-r2",
+      "type": "single",
+      "stem": "下列关于票据号码，说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "第5位是票据种类"
+        },
+        {
+          "key": "B",
+          "text": "第8位是印制识别码"
+        },
+        {
+          "key": "C",
+          "text": "]第四位是预留号，暂时用“1\"来代表"
+        },
+        {
+          "key": "D",
+          "text": "第一排前四位是行号"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 2
+      }
+    },
+    {
+      "id": "bills-mock-single-r3",
+      "type": "single",
+      "stem": "对于贴现过的商承，（）在收到提示付款申请（）前完成付款应答，不得拖延。",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑人签约行，当天17:14"
+        },
+        {
+          "key": "B",
+          "text": "承兑人开户行，当天17:15"
+        },
+        {
+          "key": "C",
+          "text": "承兑人，当天17:14"
+        },
+        {
+          "key": "D",
+          "text": "承兑人，当天17:15"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 3
+      }
+    },
+    {
+      "id": "bills-mock-single-r4",
+      "type": "single",
+      "stem": "我行承兑的银承，已贴现过，到期后，系统校验（）专户中余额，若余额不足，自动从（）专户中垫款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "4646,4483"
+        },
+        {
+          "key": "B",
+          "text": "4646,4499"
+        },
+        {
+          "key": "C",
+          "text": "995,4499"
+        },
+        {
+          "key": "D",
+          "text": "995,4483"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 4
+      }
+    },
+    {
+      "id": "bills-mock-single-r5",
+      "type": "single",
+      "stem": "柜面经理查询发现历史补录信息有误，可以对手工补录的记录进行批量删除，单次最多删除（）条记录。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 5
+      }
+    },
+    {
+      "id": "bills-mock-single-r6",
+      "type": "single",
+      "stem": "对于未贴现的商承，承兑人在票据到期后收到提示付款申请，且在收到该申请（）起（）（遇法定休假日、大额支付系统非营业日、电子商业汇票系统非营业日顺延）仍未应答的，承兑人签约行应根据承兑人账户余额，在下一工作日代理承兑人应答，不得拖延。",
+      "options": [
+        {
+          "key": "A",
+          "text": "当天，第三日"
+        },
+        {
+          "key": "B",
+          "text": "当天，第四日"
+        },
+        {
+          "key": "C",
+          "text": "次日，第四日"
+        },
+        {
+          "key": "D",
+          "text": "次日，第三日"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 6
+      }
+    },
+    {
+      "id": "bills-mock-single-r7",
+      "type": "single",
+      "stem": "出票申请若选择票据时长的，申请日为出票日，到期为对应时长后的当天（均为对月对日，当月没有该日期的则______）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "对应该月末最后一天"
+        },
+        {
+          "key": "B",
+          "text": "对应该月末最后一个工作日"
+        },
+        {
+          "key": "C",
+          "text": "对应下月初第一天"
+        },
+        {
+          "key": "D",
+          "text": "出票申请失败"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 7
+      }
+    },
+    {
+      "id": "bills-mock-single-r8",
+      "type": "single",
+      "stem": "\"4C400等分化票据签约\"交易中的客户信息维护可以修改以下哪个要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "统一社会信用代码"
+        },
+        {
+          "key": "B",
+          "text": "客户号"
+        },
+        {
+          "key": "C",
+          "text": "电子邮箱"
+        },
+        {
+          "key": "D",
+          "text": "注册地址"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 8
+      }
+    },
+    {
+      "id": "bills-mock-single-r9",
+      "type": "single",
+      "stem": "下列关于转让标记撤销的说法，不正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不得转让标记取消后，不改变票据持票人"
+        },
+        {
+          "key": "B",
+          "text": "不得转让标记取消后，后续转让时不再标记“不得转让”标志。"
+        },
+        {
+          "key": "C",
+          "text": "收票后才可以发起此交易"
+        },
+        {
+          "key": "D",
+          "text": "支持票据拆分"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 9
+      }
+    },
+    {
+      "id": "bills-mock-single-r10",
+      "type": "single",
+      "stem": "金融机构办理商业汇票贴现等业务前，应当通过票据信息披露平台核对（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "商业汇票主要要素"
+        },
+        {
+          "key": "B",
+          "text": "承兑人信用信息"
+        },
+        {
+          "key": "C",
+          "text": "商业汇票主要要素及承兑人信用信息"
+        },
+        {
+          "key": "D",
+          "text": "持续逾期情况"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 10
+      }
+    },
+    {
+      "id": "bills-mock-single-r11",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》要求，纸质银行承兑汇票单张票面金额小于（）万元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "50"
+        },
+        {
+          "key": "B",
+          "text": "100"
+        },
+        {
+          "key": "C",
+          "text": "300"
+        },
+        {
+          "key": "D",
+          "text": "500"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 11
+      }
+    },
+    {
+      "id": "bills-mock-single-r12",
+      "type": "single",
+      "stem": "线上清算为DVP实时清算，实现票据款项的实时汇划。线上清算必须在___时间内进行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "电子商业汇票系统运行"
+        },
+        {
+          "key": "B",
+          "text": "人行跨行清算系统运行"
+        },
+        {
+          "key": "C",
+          "text": "票交所系统开放"
+        },
+        {
+          "key": "D",
+          "text": "大额支付系统运行"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 12
+      }
+    },
+    {
+      "id": "bills-mock-single-r13",
+      "type": "single",
+      "stem": "下列关于保证说法正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑保证可以部分保证"
+        },
+        {
+          "key": "B",
+          "text": "保证申请不支持票据拆分"
+        },
+        {
+          "key": "C",
+          "text": "已办理承兑人冻结登记的票据不能办理保证业务"
+        },
+        {
+          "key": "D",
+          "text": "同一被保证人可有多个保证人，被保证人可通过系统同时向多个保证人发起保证申请"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 13
+      }
+    },
+    {
+      "id": "bills-mock-single-r14",
+      "type": "single",
+      "stem": "目前按照票交所规定，一张等分化票据最多支持拆分多少次",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "300"
+        },
+        {
+          "key": "D",
+          "text": "500"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 14
+      }
+    },
+    {
+      "id": "bills-mock-single-r15",
+      "type": "single",
+      "stem": "持票人对出票人、承兑人追索和再追索时效，自票据到期日起___，且不短于持票人对其他前手的追索和再追索时效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "6个月"
+        },
+        {
+          "key": "B",
+          "text": "1年"
+        },
+        {
+          "key": "C",
+          "text": "2年"
+        },
+        {
+          "key": "D",
+          "text": "5年"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 15
+      }
+    },
+    {
+      "id": "bills-mock-single-r16",
+      "type": "single",
+      "stem": "户名变更后，在BoEing系统中操作4C400交易变更电票签约户名后，需要用（）交易确认票交所变更进度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "4C002"
+        },
+        {
+          "key": "B",
+          "text": "4C400"
+        },
+        {
+          "key": "C",
+          "text": "4A002"
+        },
+        {
+          "key": "D",
+          "text": "4C000"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 16
+      }
+    },
+    {
+      "id": "bills-mock-single-r17",
+      "type": "single",
+      "stem": "我行承兑的银承，未经贴现，到期后，如网点专户已先行垫款，则会在待处理任务里生成（）任务流。",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示付款回复"
+        },
+        {
+          "key": "B",
+          "text": "提示付款复核"
+        },
+        {
+          "key": "C",
+          "text": "提示付款回复方记账"
+        },
+        {
+          "key": "D",
+          "text": "提示付款回复方记账复核"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 17
+      }
+    },
+    {
+      "id": "bills-mock-single-r18",
+      "type": "single",
+      "stem": "数字化票据服务平台2.0系统一点对接___。",
+      "options": [
+        {
+          "key": "A",
+          "text": "电子商业汇票系统"
+        },
+        {
+          "key": "B",
+          "text": "新一代票据业务系统"
+        },
+        {
+          "key": "C",
+          "text": "中国票据交易系统"
+        },
+        {
+          "key": "D",
+          "text": "纸质商业汇票系统"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 18
+      }
+    },
+    {
+      "id": "bills-mock-single-r19",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》要求，承兑行（）应于银行承兑汇票到期日前（）检查出票人在承兑行的存款情况，若账户存款不足以支付票款的，应通知出票人按票面金额将兑付资金存入承兑行。无论持票人是否提示付款，出票人应将兑付资金全额存入承兑行，最晚不得超过承兑汇票到期日。",
+      "options": [
+        {
+          "key": "A",
+          "text": "柜面人员，5日"
+        },
+        {
+          "key": "B",
+          "text": "柜面人员，10日"
+        },
+        {
+          "key": "C",
+          "text": "客户部门，5日"
+        },
+        {
+          "key": "D",
+          "text": "客户部门，10日"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 19
+      }
+    },
+    {
+      "id": "bills-mock-single-r20",
+      "type": "single",
+      "stem": "4646D登记簿支持批量补录，最多支持批量补录（）条。",
+      "options": [
+        {
+          "key": "A",
+          "text": "10"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "50"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 20
+      }
+    },
+    {
+      "id": "bills-mock-single-r21",
+      "type": "single",
+      "stem": "下列关于撤销的说法，不正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "业务申请在收到回复前可撤销"
+        },
+        {
+          "key": "B",
+          "text": "仅支持单笔撤销"
+        },
+        {
+          "key": "C",
+          "text": "撤销申请无需回复"
+        },
+        {
+          "key": "D",
+          "text": "撤销申请在数字票据2.0平台发起"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 21
+      }
+    },
+    {
+      "id": "bills-mock-single-r22",
+      "type": "single",
+      "stem": "数字化票据服务平台2.0中的机构编码为___位数。",
+      "options": [
+        {
+          "key": "A",
+          "text": "6"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "12"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 22
+      }
+    },
+    {
+      "id": "bills-mock-single-r23",
+      "type": "single",
+      "stem": "如一张电票的到期日为2023年5月27日，2023年5月19日申请贴现，贴现剩余天数为（）天。",
+      "options": [
+        {
+          "key": "A",
+          "text": "7"
+        },
+        {
+          "key": "B",
+          "text": "8"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 23
+      }
+    },
+    {
+      "id": "bills-mock-single-r24",
+      "type": "single",
+      "stem": "累计逾期发生额是指承兑人近（）年内发生过逾期的商业汇票总金额。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 24
+      }
+    },
+    {
+      "id": "bills-mock-single-r25",
+      "type": "single",
+      "stem": "总行对网点4646D登记簿功能进行优化后，我行承兑的已贴现银承到期后，系统对（）进行校验，如校验通过，则自动从4646专户扣款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示付款回复任务"
+        },
+        {
+          "key": "B",
+          "text": "4646专户余额"
+        },
+        {
+          "key": "C",
+          "text": "4646D登记簿中的待核销余额"
+        },
+        {
+          "key": "D",
+          "text": "提示付款回复方记账任务"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 25
+      }
+    },
+    {
+      "id": "bills-mock-single-r26",
+      "type": "single",
+      "stem": "客户变更了户名，如何变更数字票据2.0的签约户名？",
+      "options": [
+        {
+          "key": "A",
+          "text": "打票交所电话申请变更"
+        },
+        {
+          "key": "B",
+          "text": "客户自行在企业网银中变更"
+        },
+        {
+          "key": "C",
+          "text": "无需办理变更，会自动变更"
+        },
+        {
+          "key": "D",
+          "text": "在BoEing系统“4C400”操作变更"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 26
+      }
+    },
+    {
+      "id": "bills-mock-single-r27",
+      "type": "single",
+      "stem": "票据账户主动管理，新增主办账户或普通账户，（）生效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "日终"
+        },
+        {
+          "key": "B",
+          "text": "T+1日"
+        },
+        {
+          "key": "C",
+          "text": "立即"
+        },
+        {
+          "key": "D",
+          "text": "待票交所审查通过"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 27
+      }
+    },
+    {
+      "id": "bills-mock-single-r28",
+      "type": "single",
+      "stem": "承兑人连续（）个月以上未披露（）的，构成延迟披露。",
+      "options": [
+        {
+          "key": "A",
+          "text": "6，每张收款人已收票的商业汇票主要要素"
+        },
+        {
+          "key": "B",
+          "text": "3，承兑人信用信息"
+        },
+        {
+          "key": "C",
+          "text": "3，每张收款人已收票的商业汇票主要要素"
+        },
+        {
+          "key": "D",
+          "text": "3，承兑人信用信息及每张收款人已收票的商业汇票主要要素"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 28
+      }
+    },
+    {
+      "id": "bills-mock-single-r29",
+      "type": "single",
+      "stem": "冻结登记申请及解除冻结申请业务仅支持___。",
+      "options": [
+        {
+          "key": "A",
+          "text": "电子商业汇票"
+        },
+        {
+          "key": "B",
+          "text": "纸质商业汇票"
+        },
+        {
+          "key": "C",
+          "text": "等分化票据"
+        },
+        {
+          "key": "D",
+          "text": "供应链票据"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 29
+      }
+    },
+    {
+      "id": "bills-mock-single-r30",
+      "type": "single",
+      "stem": "如电票流转信息中报错“该电票账户无此业务权限，请检查授权电票账户名单”，问题原因是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "该账户未签约电票"
+        },
+        {
+          "key": "B",
+          "text": "该账户未开通承兑权限"
+        },
+        {
+          "key": "C",
+          "text": "该账户因持续逾期被票交所暂停业务权限"
+        },
+        {
+          "key": "D",
+          "text": "该账户开通了票据账户主动管理功能"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 30
+      }
+    },
+    {
+      "id": "bills-mock-single-r31",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》明确，原则上本行仅采用电子银行承兑汇票为客户办理承兑业务，因涉及安全、保密原因不能采用电子银行承兑汇票办理业务的客户，经（）按照名单制管理准入后可采用纸质银行承兑汇票为其办理承兑业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "总行信用管理部门"
+        },
+        {
+          "key": "B",
+          "text": "一级分行信用管理部门"
+        },
+        {
+          "key": "C",
+          "text": "一级分行公司业务部"
+        },
+        {
+          "key": "D",
+          "text": "总行公司业务部"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 31
+      }
+    },
+    {
+      "id": "bills-mock-single-r32",
+      "type": "single",
+      "stem": "票据流通标志是___时，代表票据行为（除追索外）已发起，但是对方未应答。",
+      "options": [
+        {
+          "key": "A",
+          "text": "已锁定"
+        },
+        {
+          "key": "B",
+          "text": "可流通"
+        },
+        {
+          "key": "C",
+          "text": "待收票"
+        },
+        {
+          "key": "D",
+          "text": "不可转让"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 32
+      }
+    },
+    {
+      "id": "bills-mock-single-r33",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》明确，与客户签订电子商业汇票服务协议属于（）职责。",
+      "options": [
+        {
+          "key": "A",
+          "text": "客户部门"
+        },
+        {
+          "key": "B",
+          "text": "信用管理/信用审批部门"
+        },
+        {
+          "key": "C",
+          "text": "运营管理部门"
+        },
+        {
+          "key": "D",
+          "text": "机构业务部门"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 33
+      }
+    },
+    {
+      "id": "bills-mock-single-r34",
+      "type": "single",
+      "stem": "4646D登记簿补录功能在BoEing哪个菜单中？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "结算服务-商业汇票-查询"
+        },
+        {
+          "key": "B",
+          "text": "结算服务-等分化票据-查询"
+        },
+        {
+          "key": "C",
+          "text": "结算服务-等分化票据-业务申请"
+        },
+        {
+          "key": "D",
+          "text": "结算服务-商业汇票-业务申请"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 34
+      }
+    },
+    {
+      "id": "bills-mock-single-r35",
+      "type": "single",
+      "stem": "等分化票据具备“金额可拆分”属性，支持出票人签发以标准金额（___元）票据组成的票据包。",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.01"
+        },
+        {
+          "key": "B",
+          "text": "0.1"
+        },
+        {
+          "key": "C",
+          "text": "1"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 35
+      }
+    },
+    {
+      "id": "bills-mock-single-r36",
+      "type": "single",
+      "stem": "在数字票据2.0系统做转贴现申请，提示“交易对手不在我行可交易的名单内”。该名单是由哪个部门维护的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信贷管理部"
+        },
+        {
+          "key": "B",
+          "text": "运营管理部"
+        },
+        {
+          "key": "C",
+          "text": "票据营业部"
+        },
+        {
+          "key": "D",
+          "text": "公司业务部"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 36
+      }
+    },
+    {
+      "id": "bills-mock-single-r37",
+      "type": "single",
+      "stem": "承兑人应当在每月前（）日内完整披露截至（）的承兑人信用信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "5，披露日"
+        },
+        {
+          "key": "B",
+          "text": "5，上月末"
+        },
+        {
+          "key": "C",
+          "text": "10，披露日"
+        },
+        {
+          "key": "D",
+          "text": "10，上月末"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 37
+      }
+    },
+    {
+      "id": "bills-mock-single-r38",
+      "type": "single",
+      "stem": "票交所办理权属初始登记是在（）环节之后。",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑人对收到的提示承兑申请进行应答"
+        },
+        {
+          "key": "B",
+          "text": "发起提示收票后"
+        },
+        {
+          "key": "C",
+          "text": "提示收票应答同意"
+        },
+        {
+          "key": "D",
+          "text": "出票信息登记成功后"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 38
+      }
+    },
+    {
+      "id": "bills-mock-single-r39",
+      "type": "single",
+      "stem": "票交所发起提示付款申请的时间，由票交所统一设置，参数设置为（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "8:00"
+        },
+        {
+          "key": "B",
+          "text": "9:00"
+        },
+        {
+          "key": "C",
+          "text": "10:00"
+        },
+        {
+          "key": "D",
+          "text": "10:15"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 39
+      }
+    },
+    {
+      "id": "bills-mock-single-r40",
+      "type": "single",
+      "stem": "6个月内发生___次以上承兑人逾期的，构成持续逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 40
+      }
+    },
+    {
+      "id": "bills-mock-single-r41",
+      "type": "single",
+      "stem": "背书转让申请交易成功后，通过票面信息查询交易，查看票据状态更新为___。",
+      "options": [
+        {
+          "key": "A",
+          "text": "已收票，已锁定"
+        },
+        {
+          "key": "B",
+          "text": "已收票，可流通"
+        },
+        {
+          "key": "C",
+          "text": "已收票，不可转让"
+        },
+        {
+          "key": "D",
+          "text": "转让背书申请前的状态及标志"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 41
+      }
+    },
+    {
+      "id": "bills-mock-single-r42",
+      "type": "single",
+      "stem": "上海票据交易所参与者分支机构信息变更不支持修改以下哪一类信息？",
+      "options": [
+        {
+          "key": "A",
+          "text": "机构全称"
+        },
+        {
+          "key": "B",
+          "text": "机构简称"
+        },
+        {
+          "key": "C",
+          "text": "统一社会信用代码"
+        },
+        {
+          "key": "D",
+          "text": "系统参与者会员内部系统账户名称"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 42
+      }
+    },
+    {
+      "id": "bills-mock-single-r43",
+      "type": "single",
+      "stem": "承兑人未按规定披露商业汇票主要要素的，（）可通过票据信息披露平台提醒承兑人披露。",
+      "options": [
+        {
+          "key": "A",
+          "text": "收票人"
+        },
+        {
+          "key": "B",
+          "text": "持票人"
+        },
+        {
+          "key": "C",
+          "text": "开户行"
+        },
+        {
+          "key": "D",
+          "text": "电票签约行"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 43
+      }
+    },
+    {
+      "id": "bills-mock-single-r44",
+      "type": "single",
+      "stem": "数字票据服务平台2.0单个批次最多发起多少笔票据出票申请？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "500"
+        },
+        {
+          "key": "D",
+          "text": "1000"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 44
+      }
+    },
+    {
+      "id": "bills-mock-single-r45",
+      "type": "single",
+      "stem": "票交所完成机构接入操作后，需要在票交所客户端及数字票据2.0中___。完成后需在票交所客户端及数字票据2.0分别维护对应的机构权限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增机构"
+        },
+        {
+          "key": "B",
+          "text": "调整机构层级"
+        },
+        {
+          "key": "C",
+          "text": "维护行内信息"
+        },
+        {
+          "key": "D",
+          "text": "维护机构承接"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 45
+      }
+    },
+    {
+      "id": "bills-mock-single-r46",
+      "type": "single",
+      "stem": "电子商业汇票已逾提示付款期限的，持票人（或与其签有协议的接入行、接入财务公司）在做出说明后仍可向承兑人发出逾期提示付款申请，逾期提示付款可在票据到期日后___年内发起。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 46
+      }
+    },
+    {
+      "id": "bills-mock-single-r47",
+      "type": "single",
+      "stem": "票据提示承兑签收成功后的票据状态为_______。",
+      "options": [
+        {
+          "key": "A",
+          "text": "已承兑，待收票"
+        },
+        {
+          "key": "B",
+          "text": "已出票，已承兑"
+        },
+        {
+          "key": "C",
+          "text": "已承兑，已锁定"
+        },
+        {
+          "key": "D",
+          "text": "已出票，待收票"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 47
+      }
+    },
+    {
+      "id": "bills-mock-single-r48",
+      "type": "single",
+      "stem": "票据种类标识（票号第一位）为___代表等分化银行承兑汇票。",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 48
+      }
+    },
+    {
+      "id": "bills-mock-single-r49",
+      "type": "single",
+      "stem": "BoEing端“4C00A网点4646D登记簿查询”批量交易最多___笔？",
+      "options": [
+        {
+          "key": "A",
+          "text": "25"
+        },
+        {
+          "key": "B",
+          "text": "50"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "500"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 49
+      }
+    },
+    {
+      "id": "bills-mock-single-r50",
+      "type": "single",
+      "stem": "商业汇票承兑人最近___发生票据持续逾期或者未按规定披露信息的，金融机构不得为其办理票据承兑、贴现、保证、质押等业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "三个月"
+        },
+        {
+          "key": "B",
+          "text": "六个月"
+        },
+        {
+          "key": "C",
+          "text": "一年"
+        },
+        {
+          "key": "D",
+          "text": "两年"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 50
+      }
+    },
+    {
+      "id": "bills-mock-single-r51",
+      "type": "single",
+      "stem": "商业汇票贴现期限从贴现之日起至汇票到期日止，对于承兑日期在（）及以后的商业汇票，贴现期限最长不超过（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "2023年1月1日，6个月"
+        },
+        {
+          "key": "B",
+          "text": "2022年11月11日，6个月"
+        },
+        {
+          "key": "C",
+          "text": "2023年1月1日，12个月"
+        },
+        {
+          "key": "D",
+          "text": "2022年11月11日，12个月"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 51
+      }
+    },
+    {
+      "id": "bills-mock-single-r52",
+      "type": "single",
+      "stem": "我行承兑的银承，未经贴现，如持票人在票据到期日前提前发起了提示付款，BoEing系统会生成（）任务流。",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示付款回复"
+        },
+        {
+          "key": "B",
+          "text": "提示付款复核"
+        },
+        {
+          "key": "C",
+          "text": "提示付款回复方记账"
+        },
+        {
+          "key": "D",
+          "text": "提示付款回复方记账复核"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 52
+      }
+    },
+    {
+      "id": "bills-mock-single-r53",
+      "type": "single",
+      "stem": "办理商业承兑汇票贴现的贴现申请人和商业汇票承兑人均应为辖内客户，即在受理贴现业务的（）管辖范围内。",
+      "options": [
+        {
+          "key": "A",
+          "text": "一级支行"
+        },
+        {
+          "key": "B",
+          "text": "一级分行"
+        },
+        {
+          "key": "C",
+          "text": "二级分行"
+        },
+        {
+          "key": "D",
+          "text": "二级支行"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 53
+      }
+    },
+    {
+      "id": "bills-mock-single-r54",
+      "type": "single",
+      "stem": "上海票据交易所新一代票据业务系统中，资金可以线上清算的时间为__",
+      "options": [
+        {
+          "key": "A",
+          "text": "8:00-20:00"
+        },
+        {
+          "key": "B",
+          "text": "工作日8:00-20:00"
+        },
+        {
+          "key": "C",
+          "text": "8:00-17:14"
+        },
+        {
+          "key": "D",
+          "text": "工作日8:00-17:14"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 54
+      }
+    },
+    {
+      "id": "bills-mock-single-r55",
+      "type": "single",
+      "stem": "关于线上清算方式，以下哪种说法是错误的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "持票人在发起提示付款申请时若选择线上清算方式，则承兑人签收时大额支付系统必须为日间处理状态。"
+        },
+        {
+          "key": "B",
+          "text": "贴现业务入账账号的行号为贴入行行号时，可以选择线上清算方式。"
+        },
+        {
+          "key": "C",
+          "text": "线上清算是指票据交付和资金交割同时完成的一种交易方式。"
+        },
+        {
+          "key": "D",
+          "text": "提示付款回复（线上清算）因涉及大额支付系统，应在工作日17:15前完成办理。"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 55
+      }
+    },
+    {
+      "id": "bills-mock-single-r56",
+      "type": "single",
+      "stem": "___通过数字化票据服务平台2.0进行系统管理和业务操作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "客服经理"
+        },
+        {
+          "key": "B",
+          "text": "管户人员及客户经理"
+        },
+        {
+          "key": "C",
+          "text": "内勤行长"
+        },
+        {
+          "key": "D",
+          "text": "网点主任"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 56
+      }
+    },
+    {
+      "id": "bills-mock-single-r57",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》要求，电子银行承兑汇票单张票面金额一般不超过（）万元；对行业重点客户、总行及一级分行核心客户、信用等级AA＋级（含）以上（或信用评分850分及以上）客户签发电子银行承兑汇票，单张票面金额不得超过（）万元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3000,10000"
+        },
+        {
+          "key": "B",
+          "text": "5000,10000"
+        },
+        {
+          "key": "C",
+          "text": "5000,20000"
+        },
+        {
+          "key": "D",
+          "text": "3000.20000"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 57
+      }
+    },
+    {
+      "id": "bills-mock-single-r58",
+      "type": "single",
+      "stem": "___是我行处理等分化票据业务的全新系统，一点对接票交所新一代票据业务系统。",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化票据服务平台1.0"
+        },
+        {
+          "key": "B",
+          "text": "数字化票据服务平台2.0"
+        },
+        {
+          "key": "C",
+          "text": "贸易通"
+        },
+        {
+          "key": "D",
+          "text": "票据交易系统 （CPES）"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 58
+      }
+    },
+    {
+      "id": "bills-mock-single-r59",
+      "type": "single",
+      "stem": "数字票据2.0中，冻结/解除冻结登记申请后，票据的哪种状态会变为司法冻结？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "票据状态"
+        },
+        {
+          "key": "B",
+          "text": "风险状态"
+        },
+        {
+          "key": "C",
+          "text": "流通标志"
+        },
+        {
+          "key": "D",
+          "text": "库存状态"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 59
+      }
+    },
+    {
+      "id": "bills-mock-single-r60",
+      "type": "single",
+      "stem": "（）是由银行、农村信用合作社、财务公司以外的法人或非法人组织承兑的商业汇票。",
+      "options": [
+        {
+          "key": "A",
+          "text": "银行承兑汇票"
+        },
+        {
+          "key": "B",
+          "text": "财务公司承兑汇票"
+        },
+        {
+          "key": "C",
+          "text": "商业承兑汇票"
+        },
+        {
+          "key": "D",
+          "text": "商业汇票"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 60
+      }
+    },
+    {
+      "id": "bills-mock-single-r61",
+      "type": "single",
+      "stem": "累计承兑发生额是指承兑人（）以来累计承兑的商业汇票总金额。",
+      "options": [
+        {
+          "key": "A",
+          "text": "注册日"
+        },
+        {
+          "key": "B",
+          "text": "当年1月1日"
+        },
+        {
+          "key": "C",
+          "text": "开通电票业务"
+        },
+        {
+          "key": "D",
+          "text": "出票日"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 61
+      }
+    },
+    {
+      "id": "bills-mock-single-r62",
+      "type": "single",
+      "stem": "至票据的票面到期日（），已办理出票信息登记但未发起提示承兑的票据，票交所对票据作作废处理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "日终"
+        },
+        {
+          "key": "B",
+          "text": "前一日日终"
+        },
+        {
+          "key": "C",
+          "text": "前一个工作日日终"
+        },
+        {
+          "key": "D",
+          "text": "17:15"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 62
+      }
+    },
+    {
+      "id": "bills-mock-single-r63",
+      "type": "single",
+      "stem": "冻结/解除冻结登记后，发生改变的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有效标识"
+        },
+        {
+          "key": "B",
+          "text": "风险状态"
+        },
+        {
+          "key": "C",
+          "text": "票据状态"
+        },
+        {
+          "key": "D",
+          "text": "流通标志"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 63
+      }
+    },
+    {
+      "id": "bills-mock-single-r64",
+      "type": "single",
+      "stem": "（）个月内发生（）次以上票据逾期，且月末有逾期余额或当月有票据逾期行为发生的，构成承兑人逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,2"
+        },
+        {
+          "key": "B",
+          "text": "3,3"
+        },
+        {
+          "key": "C",
+          "text": "6,3"
+        },
+        {
+          "key": "D",
+          "text": "6,6"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 64
+      }
+    },
+    {
+      "id": "bills-mock-single-r65",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》要求，承兑期限应当与真实交易的履行期限相匹配，自出票日起至到期日止，最长不得超过（）个月。出票人应按不低于承兑金额（）%的比例缴存保证金（低信用风险业务除外）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,20"
+        },
+        {
+          "key": "B",
+          "text": "6,25"
+        },
+        {
+          "key": "C",
+          "text": "9,25"
+        },
+        {
+          "key": "D",
+          "text": "12,20"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 65
+      }
+    },
+    {
+      "id": "bills-mock-single-r66",
+      "type": "single",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》明确，定期披露本行银行承兑汇票业务相关信用信息，属于（）职责。",
+      "options": [
+        {
+          "key": "A",
+          "text": "客户部门"
+        },
+        {
+          "key": "B",
+          "text": "信用管理/信用审批部门"
+        },
+        {
+          "key": "C",
+          "text": "运营管理部门"
+        },
+        {
+          "key": "D",
+          "text": "机构业务部门"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 66
+      }
+    },
+    {
+      "id": "bills-mock-single-r67",
+      "type": "single",
+      "stem": "柜面在操作4646D登记簿补录时，业务类型应选择（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示付款申请记账"
+        },
+        {
+          "key": "B",
+          "text": "提示付款回复"
+        },
+        {
+          "key": "C",
+          "text": "提示付款回复记账"
+        },
+        {
+          "key": "D",
+          "text": "托收"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 67
+      }
+    },
+    {
+      "id": "bills-mock-single-r68",
+      "type": "single",
+      "stem": "电票的付款期限自出票日起至到期日止，最长不超过___个月。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 68
+      }
+    },
+    {
+      "id": "bills-mock-single-r69",
+      "type": "single",
+      "stem": "下面说法错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "对于商票，票交所根据承兑人授权处理为应答同意。"
+        },
+        {
+          "key": "B",
+          "text": "对于已登记冻结或止付信息且未解除的银票和财票、未付款确认的纸质银票和财票，承兑人的参与者服务机构收到票交所转发的申请，通知承兑人应答。"
+        },
+        {
+          "key": "C",
+          "text": "对于未登记冻结或止付信息的银票和财票（不含未付款确认的纸质银票和财票），票交所根据承兑人授权处理为应答同意。"
+        },
+        {
+          "key": "D",
+          "text": "提示付款申请发起的当日日终，提示付款申请仍未获应答的，视同承兑人拒绝付款，票交所处理为拒绝付款。"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 69
+      }
+    },
+    {
+      "id": "bills-mock-single-r70",
+      "type": "single",
+      "stem": "我行签约客户签发的商承，已贴现过，到期收到提示付款后，柜面通过（）交易进行提示付款回复。",
+      "options": [
+        {
+          "key": "A",
+          "text": "4A002"
+        },
+        {
+          "key": "B",
+          "text": "4C000"
+        },
+        {
+          "key": "C",
+          "text": "4A000"
+        },
+        {
+          "key": "D",
+          "text": "4C001"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 70
+      }
+    },
+    {
+      "id": "bills-mock-single-r71",
+      "type": "single",
+      "stem": "___个月内发生___次以上票据逾期，且月末有逾期余额或当月有票据逾期行为发生的，构成承兑人逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "3；2"
+        },
+        {
+          "key": "B",
+          "text": "3；3"
+        },
+        {
+          "key": "C",
+          "text": "6；2"
+        },
+        {
+          "key": "D",
+          "text": "6；3"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 71
+      }
+    },
+    {
+      "id": "bills-mock-single-r72",
+      "type": "single",
+      "stem": "下面关于追索的说法，错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "追索业务处理包括追索通知和追索同意清偿两个业务子流程。"
+        },
+        {
+          "key": "B",
+          "text": "持票人（或已质押未解除票据的质权人）提前提示付款被拒付的，可以发起拒付追索。"
+        },
+        {
+          "key": "C",
+          "text": "保证人可以向被保证人追索"
+        },
+        {
+          "key": "D",
+          "text": "持票人（或已质押未解除票据的质权人）可以在符合条件的情况下于票据到期日前发起非拒付追索。"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 72
+      }
+    },
+    {
+      "id": "bills-mock-single-r73",
+      "type": "single",
+      "stem": "已开通票据账户主动管理功能的，通过（）发起变更申请，变更主办账户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "主办机构"
+        },
+        {
+          "key": "B",
+          "text": "电票签约行"
+        },
+        {
+          "key": "C",
+          "text": "票交所"
+        },
+        {
+          "key": "D",
+          "text": "开户行"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 73
+      }
+    },
+    {
+      "id": "bills-mock-single-r74",
+      "type": "single",
+      "stem": "等分化票据签约的“签约账户维护”交易中，非本网点报备客户，可以操作___。",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增"
+        },
+        {
+          "key": "B",
+          "text": "修改"
+        },
+        {
+          "key": "C",
+          "text": "删除"
+        },
+        {
+          "key": "D",
+          "text": "以上皆可"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "单选",
+        "row": 74
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r2",
+      "type": "multiple",
+      "stem": "柜面可以通过\"4C400等分化票据签约\"交易完成哪些操作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "查询某客户的等分化票据签约、维护、解约进度"
+        },
+        {
+          "key": "B",
+          "text": "对新客户进行等分化票据签约"
+        },
+        {
+          "key": "C",
+          "text": "对已签约等分化票据的客户信息和账户信息进行维护"
+        },
+        {
+          "key": "D",
+          "text": "对已签约等分化票据的客户进行解约"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 2
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r3",
+      "type": "multiple",
+      "stem": "商业汇票根据承兑人主体的不同，分为______。",
+      "options": [
+        {
+          "key": "A",
+          "text": "银行承兑汇票"
+        },
+        {
+          "key": "B",
+          "text": "商业承兑汇票"
+        },
+        {
+          "key": "C",
+          "text": "供应链票据"
+        },
+        {
+          "key": "D",
+          "text": "财务公司承兑汇票"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 3
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r4",
+      "type": "multiple",
+      "stem": "下列关于数字票据2.0的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在等分化票据签约功能中，要查询签约信息须输入统一社会信用代码或者绑定的结算账号，不能直接点击查询签约信息"
+        },
+        {
+          "key": "B",
+          "text": "进行客户解约交易时，仅在绑定结算账户都已经删除的情况下可以解约客户信息"
+        },
+        {
+          "key": "C",
+          "text": "发起撤票申请的票据，应当未完成提示收票，且无在途的提示承兑、提示收票、保证申请业务。"
+        },
+        {
+          "key": "D",
+          "text": "同一张票据，我行系统控制不得对同一客户发起多次追索"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 4
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r5",
+      "type": "multiple",
+      "stem": "下列关于保证业务的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "保证人不能为出票人、承兑人、收款人以及其他前手历史背书人或其他保证人（质权人除外）"
+        },
+        {
+          "key": "B",
+          "text": "被保证人可以同时向多个保证人发起保证申请"
+        },
+        {
+          "key": "C",
+          "text": "票据获得承兑后、出票人将票据交付收款人前，收款人发起保证申请、保证人作出保证的，被保证人为收款人"
+        },
+        {
+          "key": "D",
+          "text": "保证人和被保证人不能为同一人"
+        },
+        {
+          "key": "E",
+          "text": "除贴入人作为被保证人的情况之外，同一被保证人可有多个保证人"
+        }
+      ],
+      "answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 5
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r6",
+      "type": "multiple",
+      "stem": "《中国农业银行商业汇票贴现业务管理办法》中明确，以下哪些环节属于柜面操作环节？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现申请"
+        },
+        {
+          "key": "B",
+          "text": "贴现受理"
+        },
+        {
+          "key": "C",
+          "text": "贴现放款"
+        },
+        {
+          "key": "D",
+          "text": "存续期管理"
+        },
+        {
+          "key": "E",
+          "text": "票据权属登记"
+        }
+      ],
+      "answers": [
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 6
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r7",
+      "type": "multiple",
+      "stem": "客户变更了户名，需要变更数字票据2.0的签约户名，在BoEing系统中操作4C400签约信息变更时应同时操作（）？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客户签约"
+        },
+        {
+          "key": "B",
+          "text": "客户信息维护"
+        },
+        {
+          "key": "C",
+          "text": "签约账户维护"
+        },
+        {
+          "key": "D",
+          "text": "客户解约"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 7
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r8",
+      "type": "multiple",
+      "stem": "完成以下哪些票据行为后流通标志变为托收在途？",
+      "options": [
+        {
+          "key": "A",
+          "text": "票据行为已发起，但是对方未应答"
+        },
+        {
+          "key": "B",
+          "text": "追索通知"
+        },
+        {
+          "key": "C",
+          "text": "到期/期后提示付款应答拒绝、单笔清算失败"
+        },
+        {
+          "key": "D",
+          "text": "到期解质押"
+        }
+      ],
+      "answers": [
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 8
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r9",
+      "type": "multiple",
+      "stem": "下列关于票据账户主动管理，说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "开通票据账户主动管理功能的间接参与者，其在票交所登记的账户可以办理电票业务，未登记的账户不能办理部分电票业务"
+        },
+        {
+          "key": "B",
+          "text": "未开通票据账户主动管理功能的间接参与者，不影响其现有电票业务的办理。"
+        },
+        {
+          "key": "C",
+          "text": "间接参与者可以自行选择是否开通票据账户主动管理功能"
+        },
+        {
+          "key": "D",
+          "text": "主办机构应当为金融机构，并与主办账户的开户机构为同一法人，负责根据间接参与者的委托，登记该参与者用于办理电票业务的账户。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 9
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r10",
+      "type": "multiple",
+      "stem": "下列关于数字票据2.0的说法，错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲客户在背书转让给乙客户时误将票据标记了不得再转让，此时仅需要乙客户发起“不得转让标记撤销申请”后票据就可以继续转让。"
+        },
+        {
+          "key": "B",
+          "text": "有权机关仅可以至票据的承兑行对某张票据进行冻结。"
+        },
+        {
+          "key": "C",
+          "text": "原数字票据1.0的客户无需重新来行签约即可签发等分化票据。"
+        },
+        {
+          "key": "D",
+          "text": "数字票据2.0中的机构必须有大额行号，且不能在2.0中新增机构。"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 10
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r11",
+      "type": "multiple",
+      "stem": "4C400等分化票据签约新增企业信息时，提示登记失败，企业可核对是否存在以下情况？",
+      "options": [
+        {
+          "key": "A",
+          "text": "企业新近注册或办理变更名称、三证合一等，需确认相关信息在国家企业信息公示系统可查询到后，再进行企业信息登记。"
+        },
+        {
+          "key": "B",
+          "text": "企业名称、统一社会信用代码等信息与工商登记信息不一致、结算账户开户行行号与登记行不一致、账号与账户名称重复登记的，需将信息修改正确后，再次进行登记。"
+        },
+        {
+          "key": "C",
+          "text": "有极少数个体工商户因三证合一等因素，数据需手工接入重新获取处理，处理后即可正常备案。"
+        },
+        {
+          "key": "D",
+          "text": "如仍存在问题，可拨打上海票交所场务热线021-23139999进行咨询。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 11
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r12",
+      "type": "multiple",
+      "stem": "下列关于冻结/解除冻结登记申请说法正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "该业务支持等分化票据及Ecds系统签发的贴现后票据"
+        },
+        {
+          "key": "B",
+          "text": "票据承兑行受理票据冻结/解除冻结登记申请"
+        },
+        {
+          "key": "C",
+          "text": "需先上传司法机关法律文书等信息至票交所，获取附件批次号后，再发起冻结/解除冻结登记申请"
+        },
+        {
+          "key": "D",
+          "text": "交易成功后票据状态及流通标志发生变化"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 12
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r13",
+      "type": "multiple",
+      "stem": "银行承兑汇票贴现申请人为在市场监督管理部门登记注册的企（事）业法人、非法人组织。贴现申请人必须同时具备以下条件：（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "在本行开立基本账户或一般账户"
+        },
+        {
+          "key": "B",
+          "text": "电票贴现申请人应与本行签订电子商业汇票服务协议"
+        },
+        {
+          "key": "C",
+          "text": "与出票人（或直接前手）之间具有真实合法的商品或服务（含劳务或技术服务）交易关系和债权债务关系"
+        },
+        {
+          "key": "D",
+          "text": "贴现申请人及其主要股东、实际控制人、法定代表人、高管等人员未违法从事民间借贷、非法集资、涉黑涉恶及其他非法金融活动"
+        },
+        {
+          "key": "E",
+          "text": "持有尚未到期且要式完整的银行承兑汇票"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 13
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r14",
+      "type": "multiple",
+      "stem": "我行哪些系统处理票交所新一代票据业务系统相关业务？",
+      "options": [
+        {
+          "key": "A",
+          "text": "数字化票据服务平台1.0"
+        },
+        {
+          "key": "B",
+          "text": "数字化票据服务平台2.0"
+        },
+        {
+          "key": "C",
+          "text": "BoEing-商业汇票模块"
+        },
+        {
+          "key": "D",
+          "text": "BoEing-等分化汇票模块"
+        }
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 14
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r15",
+      "type": "multiple",
+      "stem": "承兑人出现以下哪些情况，票交所将定期通过票据信息披露平台进行提示",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑人逾期及持续逾期"
+        },
+        {
+          "key": "B",
+          "text": "承兑人信用信息延迟披露"
+        },
+        {
+          "key": "C",
+          "text": "经开户机构报告电票业务账户被有权机关认定为伪假"
+        },
+        {
+          "key": "D",
+          "text": "其他监测中发现的异常披露情况"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 15
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r16",
+      "type": "multiple",
+      "stem": "网点签退前，应保证（）专户余额为0。",
+      "options": [
+        {
+          "key": "A",
+          "text": "995"
+        },
+        {
+          "key": "B",
+          "text": "4646"
+        },
+        {
+          "key": "C",
+          "text": "4483"
+        },
+        {
+          "key": "D",
+          "text": "4499"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 16
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r17",
+      "type": "multiple",
+      "stem": "在数字票据2.0系统中，下列哪些业务日终未应答会清退?",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示承兑"
+        },
+        {
+          "key": "B",
+          "text": "提示付款申请"
+        },
+        {
+          "key": "C",
+          "text": "追索同意清偿申请（线下清算）"
+        },
+        {
+          "key": "D",
+          "text": "追索同意清偿申请（线上清算）"
+        },
+        {
+          "key": "E",
+          "text": "贴现申请"
+        }
+      ],
+      "answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 17
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r18",
+      "type": "multiple",
+      "stem": "承兑人有以下情况的，应当披露承兑人信用信息（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "当月有承兑业务发生"
+        },
+        {
+          "key": "B",
+          "text": "月末有承兑余额"
+        },
+        {
+          "key": "C",
+          "text": "当月有持续逾期行为发生"
+        },
+        {
+          "key": "D",
+          "text": "当月有票据逾期行为发生"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 18
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r19",
+      "type": "multiple",
+      "stem": "下列关于等分化票据拆分规则说法正确的有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票时可以选择是否可拆分，所以不是所有等分化票据都可以拆分"
+        },
+        {
+          "key": "B",
+          "text": "如果选择为不可以拆分，则子票区间为0"
+        },
+        {
+          "key": "C",
+          "text": "票据拆分后，可以再合并"
+        },
+        {
+          "key": "D",
+          "text": "进行票据行为时必须从持有票据的子票区间开始值发起，不允许跳跃"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 19
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r20",
+      "type": "multiple",
+      "stem": "下列哪些状态的票据支持发起到期或期后提示付款申请？",
+      "options": [
+        {
+          "key": "A",
+          "text": "已到期，可流通"
+        },
+        {
+          "key": "B",
+          "text": "已到期，已质押"
+        },
+        {
+          "key": "C",
+          "text": "已到期，托收在途"
+        },
+        {
+          "key": "D",
+          "text": "已到期，不可转让"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 20
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r21",
+      "type": "multiple",
+      "stem": "多笔票据的客户动账扣款复核，同时处理时需要满足的条件有（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票人相同"
+        },
+        {
+          "key": "B",
+          "text": "动账账号相同"
+        },
+        {
+          "key": "C",
+          "text": "付款人相同"
+        },
+        {
+          "key": "D",
+          "text": "记账方向相同"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 21
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r22",
+      "type": "multiple",
+      "stem": "客户在柜面签约了等分化票据后，在柜面可以查询到票据，但是在企业网银无法查询和进行票据操作。出现以上情况的原因可能是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "等分化票据签约网银渠道控制开关关闭"
+        },
+        {
+          "key": "B",
+          "text": "等分化票据签约网银渠道控制开关开启"
+        },
+        {
+          "key": "C",
+          "text": "网银端电子票据菜单权限未勾选"
+        },
+        {
+          "key": "D",
+          "text": "网银端等分化票据菜单权限未勾选"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 22
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r23",
+      "type": "multiple",
+      "stem": "已办理冻结登记的电票，除___和___业务外，不得发起新增业务申请和业务应答。",
+      "options": [
+        {
+          "key": "A",
+          "text": "到期自动发起的提示付款申请（需手动应答且不得应答为同意）"
+        },
+        {
+          "key": "B",
+          "text": "质押"
+        },
+        {
+          "key": "C",
+          "text": "解质押"
+        },
+        {
+          "key": "D",
+          "text": "追索"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 23
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r24",
+      "type": "multiple",
+      "stem": "承兑人出现以下情况的，票交所将定期通过票据信息披露平台进行提示（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑人未注册"
+        },
+        {
+          "key": "B",
+          "text": "承兑人逾期及持续逾期"
+        },
+        {
+          "key": "C",
+          "text": "承兑人信用信息延迟披露"
+        },
+        {
+          "key": "D",
+          "text": "经开户机构报告电票业务账户被有权机关认定为伪假"
+        },
+        {
+          "key": "E",
+          "text": "其他监测中发现的异常披露情况"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 24
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r25",
+      "type": "multiple",
+      "stem": "下列关于BoEing “4C00A网点4646D登记簿查询”交易说法错误的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "该交易一次最多25笔"
+        },
+        {
+          "key": "B",
+          "text": "若补录在当天清算时点前（10点）完成的，系统将自动执行，无需再进行人工处理"
+        },
+        {
+          "key": "C",
+          "text": "若通过4C100客户动账进行资金转入，则无需进行补录，自动登记4646登记簿"
+        },
+        {
+          "key": "D",
+          "text": "非手工补录的记录可以删除"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 25
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r26",
+      "type": "multiple",
+      "stem": "操作撤票时，如有未应答的（）业务，应先撤销待应答的申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示承兑"
+        },
+        {
+          "key": "B",
+          "text": "提示付款"
+        },
+        {
+          "key": "C",
+          "text": "提示收票"
+        },
+        {
+          "key": "D",
+          "text": "背书转让签收"
+        },
+        {
+          "key": "E",
+          "text": "保证申请"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 26
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r27",
+      "type": "multiple",
+      "stem": "数字票据2.0中，下列业务不是系统自动发起，需要手动操作？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示承兑申请"
+        },
+        {
+          "key": "B",
+          "text": "同意清偿申请"
+        },
+        {
+          "key": "C",
+          "text": "保证回复"
+        },
+        {
+          "key": "D",
+          "text": "背书回复"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 27
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r28",
+      "type": "multiple",
+      "stem": "开通票据账户主动管理功能的间接参与者，其在票交所登记的账户可以办理电票业务，未登记的账户不能办理以下电票业务：（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票信息登记"
+        },
+        {
+          "key": "B",
+          "text": "提示承兑"
+        },
+        {
+          "key": "C",
+          "text": "转让背书"
+        },
+        {
+          "key": "D",
+          "text": "转贴现"
+        },
+        {
+          "key": "E",
+          "text": "质押"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 28
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r29",
+      "type": "multiple",
+      "stem": "保证可以分为哪几种类型？",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票保证"
+        },
+        {
+          "key": "B",
+          "text": "承兑保证"
+        },
+        {
+          "key": "C",
+          "text": "背书保证"
+        },
+        {
+          "key": "D",
+          "text": "贴现保证"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 29
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r30",
+      "type": "multiple",
+      "stem": "下列关于客户动账的说法，正确的是？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "需要柜员主动发起交易"
+        },
+        {
+          "key": "B",
+          "text": "票据种类只能是银承"
+        },
+        {
+          "key": "C",
+          "text": "单次动账最大笔数为50笔"
+        },
+        {
+          "key": "D",
+          "text": "票据种类可以是银承或商承"
+        },
+        {
+          "key": "E",
+          "text": "单次动账最大笔数为25笔"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 30
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r31",
+      "type": "multiple",
+      "stem": "《商业汇票承兑、贴现与再贴现管理办法》要求，商业汇票承兑人最近二年发生票据持续逾期或者未按规定披露信息的，金融机构不得为其办理票据（）等业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现"
+        },
+        {
+          "key": "B",
+          "text": "质押"
+        },
+        {
+          "key": "C",
+          "text": "承兑"
+        },
+        {
+          "key": "D",
+          "text": "转贴现"
+        },
+        {
+          "key": "E",
+          "text": "保证"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 31
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r32",
+      "type": "multiple",
+      "stem": "下列关于追索说法错误的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "持票人在票据到期日前被拒付的，可以拒付追索"
+        },
+        {
+          "key": "B",
+          "text": "持票人在提示付款期内被拒付的，可向所有前手拒付追索"
+        },
+        {
+          "key": "C",
+          "text": "若未在提示付款期内发出过提示付款，则只可向出票人、承兑人、保证人拒付追索"
+        },
+        {
+          "key": "D",
+          "text": "追索人可以向多个被追索人发出追索通知,可以同时一对多发起"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 32
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r33",
+      "type": "multiple",
+      "stem": "网点4646登记簿查询（4C00A）交易存在以下哪些操作场景？",
+      "options": [
+        {
+          "key": "A",
+          "text": "查询4646登记情况：核对账务清算情况"
+        },
+        {
+          "key": "B",
+          "text": "单笔补录、批量补录-登记：补录资金转入记录"
+        },
+        {
+          "key": "C",
+          "text": "补录信息删除：维护错误的补录记录"
+        },
+        {
+          "key": "D",
+          "text": "单笔补录、批量补录-销记：补录资金手工转出核销记录"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 33
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r34",
+      "type": "multiple",
+      "stem": "根据《中国人民银行关于启用2010版银行票据凭证的通知》，下面说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有票据的号码调整为16位，分上下两排"
+        },
+        {
+          "key": "B",
+          "text": "票据号码的第8位为票据种类"
+        },
+        {
+          "key": "C",
+          "text": "支票、汇票和本票每本25份"
+        },
+        {
+          "key": "D",
+          "text": "转账支票、清分机支票主题图案为竹"
+        },
+        {
+          "key": "E",
+          "text": "现金支票的主题图案为兰花"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 34
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r35",
+      "type": "multiple",
+      "stem": "柜面4C400等分化票据签约可以进行以下哪些操作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客户信息维护"
+        },
+        {
+          "key": "B",
+          "text": "查询签约信息"
+        },
+        {
+          "key": "C",
+          "text": "签约账户维护"
+        },
+        {
+          "key": "D",
+          "text": "客户解约"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 35
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r36",
+      "type": "multiple",
+      "stem": "下面关于票据账户主动管理，说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主办机构发生承接，承接后新机构可直接作为主办机构。"
+        },
+        {
+          "key": "B",
+          "text": "间接参与者通过票交所新增主办账户、普通账户信息"
+        },
+        {
+          "key": "C",
+          "text": "新增普通账户时，间接参与者主动管理服务不得为开通状态"
+        },
+        {
+          "key": "D",
+          "text": "新增主办账户时，间接参与者的票据账户主动管理功能必须为开通状态"
+        },
+        {
+          "key": "E",
+          "text": "主办账户只允许填报1个，普通账户可以允许填报多个"
+        }
+      ],
+      "answers": [
+        "A",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 36
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r37",
+      "type": "multiple",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》明确，运营管理部门职责包括（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "与客户签订电子商业汇票服务协议"
+        },
+        {
+          "key": "B",
+          "text": "负责承兑业务涉及支付结算方面的制度管理"
+        },
+        {
+          "key": "C",
+          "text": "负责数字化票据服务平台管理"
+        },
+        {
+          "key": "D",
+          "text": "定期披露本行银行承兑汇票业务相关信用信息"
+        },
+        {
+          "key": "E",
+          "text": "负责承兑业务柜面操作指导"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 37
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r38",
+      "type": "multiple",
+      "stem": "在票交所披露平台披露时，商业汇票主要要素应当至少包含以下内容（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票日期"
+        },
+        {
+          "key": "B",
+          "text": "票据期限"
+        },
+        {
+          "key": "C",
+          "text": "承兑人名称"
+        },
+        {
+          "key": "D",
+          "text": "票面金额"
+        },
+        {
+          "key": "E",
+          "text": "组织机构代码证"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 38
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r39",
+      "type": "multiple",
+      "stem": "在票交所披露平台披露时，商业汇票主要要素应当至少包含以下内容？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑日期"
+        },
+        {
+          "key": "B",
+          "text": "票据号码"
+        },
+        {
+          "key": "C",
+          "text": "收款人名称"
+        },
+        {
+          "key": "D",
+          "text": "票据到期日"
+        },
+        {
+          "key": "E",
+          "text": "承兑人名称"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 39
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r40",
+      "type": "multiple",
+      "stem": "《商业汇票信息披露操作细则》要求，金融机构办理商业汇票（）业务前，应当通过票据信息披露平台核对商业汇票主要要素及其承兑人信用信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现"
+        },
+        {
+          "key": "B",
+          "text": "质押"
+        },
+        {
+          "key": "C",
+          "text": "承兑"
+        },
+        {
+          "key": "D",
+          "text": "转贴现"
+        },
+        {
+          "key": "E",
+          "text": "保证"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 40
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r41",
+      "type": "multiple",
+      "stem": "下列关于信息披露的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "逾期余额是指发生逾期且未结清的商业汇票总金额"
+        },
+        {
+          "key": "B",
+          "text": "票据信息披露平台对承兑人披露的信息与票据业务相关系统中记载的票据业务行为信息进行比对，信息比对不一致的，备注披露信息与票交所记载信息不符"
+        },
+        {
+          "key": "C",
+          "text": "自注册日后发生的承兑业务及票据逾期均纳入承兑人信用信息统计"
+        },
+        {
+          "key": "D",
+          "text": "承兑人为上市公司或在债券市场有信息披露的，可将信用评级等相关信用信息通过票据信息披露平台向公众披露"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 41
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r42",
+      "type": "multiple",
+      "stem": "关于票据（包）号，说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "票据（包）号分为4个部分，共30位"
+        },
+        {
+          "key": "B",
+          "text": "供应链平台签发的票据，7开头的为银票和财票、8开头的为商票"
+        },
+        {
+          "key": "C",
+          "text": "等分化票据5开头的为银票和财票、6开头的为商票"
+        },
+        {
+          "key": "D",
+          "text": "票据（包）号的第14-21位为出票信息登记日期"
+        },
+        {
+          "key": "E",
+          "text": "第30位为校验码"
+        }
+      ],
+      "answers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 42
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r43",
+      "type": "multiple",
+      "stem": "金融机构办理商业汇票承兑业务前，应当通过票据信息披露平台查询出票人相关信息，出现以下情况的，不得为出票人办理承兑业务（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票人最近2年发生承兑人信用信息延迟披露"
+        },
+        {
+          "key": "B",
+          "text": "出票人最近2年发生商业汇票主要要素延迟披露"
+        },
+        {
+          "key": "C",
+          "text": "出票人最近2年发生商业汇票主要要素信息及承兑人信用信息延迟披露"
+        },
+        {
+          "key": "D",
+          "text": "出票人最近2年发生承兑人逾期"
+        },
+        {
+          "key": "E",
+          "text": "出票人最近2年发生持续逾期"
+        }
+      ],
+      "answers": [
+        "A",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 43
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r44",
+      "type": "multiple",
+      "stem": "（）承兑人应当披露每张收款人已收票的商业汇票主要要素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "商业承兑汇票"
+        },
+        {
+          "key": "B",
+          "text": "银行承兑汇票"
+        },
+        {
+          "key": "C",
+          "text": "供应链票据"
+        },
+        {
+          "key": "D",
+          "text": "财务公司承兑汇票"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 44
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r45",
+      "type": "multiple",
+      "stem": "以下关于数字票据2.0的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "已办理承兑人冻结登记的票据不影响其办理保证业务"
+        },
+        {
+          "key": "B",
+          "text": "承兑不支持票据拆分"
+        },
+        {
+          "key": "C",
+          "text": "等分化票据签约功能仅能进行客户信息维护，无法进行签约账户维护"
+        },
+        {
+          "key": "D",
+          "text": "在等分化票据签约里的签约账户维护功能中，仅可以修改或删除本网点签约的账号"
+        }
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 45
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r46",
+      "type": "multiple",
+      "stem": "数字票据2.0中，下列哪些业务申请成功后无需回复？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "冻结/解除冻结登记申请"
+        },
+        {
+          "key": "B",
+          "text": "质押申请"
+        },
+        {
+          "key": "C",
+          "text": "撤销申请"
+        },
+        {
+          "key": "D",
+          "text": "同意清偿申请"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 46
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r47",
+      "type": "multiple",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》中关于保证金管理要求，以下说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "不得以贷款、贴现资金作为保证金"
+        },
+        {
+          "key": "B",
+          "text": "保证金实行专户管理，可用于支付相应的到期银行承兑汇票。"
+        },
+        {
+          "key": "C",
+          "text": "保证金应通过系统进行控制，柜面业务操作人员应按规定在相应保证金科目项下设立保证金专户，该专户下按同一批次银票设立子账户，建立一一对应关系，不得挪用、混用或随意提前支取"
+        },
+        {
+          "key": "D",
+          "text": "采用银行存单、凭证式国债、符合贴现条件的银行承兑汇票、具有现金价值的人寿保单作为质押办理承兑业务的，可按照质押金额减免保证金。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 47
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r48",
+      "type": "multiple",
+      "stem": "根据《商业汇票信息披露操作细则》要求，承兑人应当对其披露信息的（）负责。",
+      "options": [
+        {
+          "key": "A",
+          "text": "合规性"
+        },
+        {
+          "key": "B",
+          "text": "真实性"
+        },
+        {
+          "key": "C",
+          "text": "及时性"
+        },
+        {
+          "key": "D",
+          "text": "完整性"
+        },
+        {
+          "key": "E",
+          "text": "准确性"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 48
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r49",
+      "type": "multiple",
+      "stem": "（）承兑人通过票交所预留邮箱发送申请表进行注册。票交所为其开通票据信息披露平台业务权限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "商业承兑汇票"
+        },
+        {
+          "key": "B",
+          "text": "银行承兑汇票"
+        },
+        {
+          "key": "C",
+          "text": "供应链票据"
+        },
+        {
+          "key": "D",
+          "text": "财务公司承兑汇票"
+        }
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 49
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r50",
+      "type": "multiple",
+      "stem": "背书人可以在票据上记载“不得转让”标记，记载了“不得转让”标记的电票在交付被背书人后不得继续（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "背书"
+        },
+        {
+          "key": "B",
+          "text": "质押"
+        },
+        {
+          "key": "C",
+          "text": "提示付款"
+        },
+        {
+          "key": "D",
+          "text": "贴现"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 50
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r51",
+      "type": "multiple",
+      "stem": "保证指票据上记载的债务人以外的第三人保证该票据获得付款的票据行为，保证可以分为（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票保证"
+        },
+        {
+          "key": "B",
+          "text": "收票保证"
+        },
+        {
+          "key": "C",
+          "text": "承兑保证"
+        },
+        {
+          "key": "D",
+          "text": "背书保证"
+        },
+        {
+          "key": "E",
+          "text": "贴现保证"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 51
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r52",
+      "type": "multiple",
+      "stem": "出票信息登记时，下面说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑人和收款人可以为同一人"
+        },
+        {
+          "key": "B",
+          "text": "银票和财票的出票人和收款人不能为同一人"
+        },
+        {
+          "key": "C",
+          "text": "承兑人和收款人不能为同一人"
+        },
+        {
+          "key": "D",
+          "text": "商业承兑汇票的出票人和收款人可以为同一人"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 52
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r53",
+      "type": "multiple",
+      "stem": "下面关于追索的说法，错误的有（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "（首次发起的）结算方式为“线下清算”的非拒付追索同意清偿申请，票据的票面到期日日终仍未完成追索清偿的，票交所对追索同意清偿申请做清退处理。"
+        },
+        {
+          "key": "B",
+          "text": "采用线下清算方式的，仅可在营业日的业务时序和清算结算业务时序结束前发出追索同意清偿申请。"
+        },
+        {
+          "key": "C",
+          "text": "被追索人对票据（包）分包发起追索同意清偿申请，追索人应答为“同意”且清偿成功的，追索人可对未清偿的票据（包）再次发起追索通知。"
+        },
+        {
+          "key": "D",
+          "text": "持票人对其他前手的追索时效，自被拒绝付款之日起6个月"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 53
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r54",
+      "type": "multiple",
+      "stem": "数字票据2.0中，下列哪些业务不支持票据拆分？（ ）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示收票"
+        },
+        {
+          "key": "B",
+          "text": "保证"
+        },
+        {
+          "key": "C",
+          "text": "背书"
+        },
+        {
+          "key": "D",
+          "text": "撤票"
+        },
+        {
+          "key": "E",
+          "text": "贴现"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 54
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r55",
+      "type": "multiple",
+      "stem": "下列关于户名变更后电票签约的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "户名变更后无需做相关交易，电票签约的户名自动变更"
+        },
+        {
+          "key": "B",
+          "text": "户名变更后，客户可在企业网银自助变更电票签约户名"
+        },
+        {
+          "key": "C",
+          "text": "户名变更后，需在BoEing系统中操作4C400交易变更电票签约户名"
+        },
+        {
+          "key": "D",
+          "text": "操作变更电票签约户名需同时操作客户信息维护和签约账户维护"
+        }
+      ],
+      "answers": [
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 55
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r56",
+      "type": "multiple",
+      "stem": "线下贴现“买方付息”操作要点有哪些？",
+      "options": [
+        {
+          "key": "A",
+          "text": "付息账户必须为农行账户"
+        },
+        {
+          "key": "B",
+          "text": "付息账户在农行签约开通电票功能"
+        },
+        {
+          "key": "C",
+          "text": "C3受理选择是切记选择“买方付息”功能"
+        },
+        {
+          "key": "D",
+          "text": "波音贴现回复录入农行的付息账户"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 56
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r57",
+      "type": "multiple",
+      "stem": "通过票据披露平台查询发现存在以下哪些情形，则不得为持票人办理贴现等业务（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "相关商业汇票主要要素信息未披露或披露信息与票交所记载信息不符"
+        },
+        {
+          "key": "B",
+          "text": "相关票据承兑人最近2年发生承兑人信用信息延迟披露"
+        },
+        {
+          "key": "C",
+          "text": "持票人最近2年发生承兑人信用信息延迟披露"
+        },
+        {
+          "key": "D",
+          "text": "持票人最近2年发生持续逾期"
+        },
+        {
+          "key": "E",
+          "text": "相关票据承兑人最近2年发生持续逾期"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 57
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r58",
+      "type": "multiple",
+      "stem": "票交所企业信息备案字段必输项包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "名称"
+        },
+        {
+          "key": "B",
+          "text": "账户名称"
+        },
+        {
+          "key": "C",
+          "text": "统一社会信用代码"
+        },
+        {
+          "key": "D",
+          "text": "账号"
+        },
+        {
+          "key": "E",
+          "text": "开户行行号"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 58
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r59",
+      "type": "multiple",
+      "stem": "数字化票据服务平台2.0系统主要由___使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "分支行机构管理人员"
+        },
+        {
+          "key": "B",
+          "text": "柜面经理"
+        },
+        {
+          "key": "C",
+          "text": "内勤行长"
+        },
+        {
+          "key": "D",
+          "text": "客户经理"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 59
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r60",
+      "type": "multiple",
+      "stem": "在数字票据2.0系统中，下列哪些业务支持票据拆分？",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现"
+        },
+        {
+          "key": "B",
+          "text": "背书"
+        },
+        {
+          "key": "C",
+          "text": "质押"
+        },
+        {
+          "key": "D",
+          "text": "解质押"
+        },
+        {
+          "key": "E",
+          "text": "同意清偿"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 60
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r61",
+      "type": "multiple",
+      "stem": "下列描述数字化票据服务平台2.0说法正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "统一系统架构、机构标准、用户权限、账务清算"
+        },
+        {
+          "key": "B",
+          "text": "打通数据壁垒，实现票据业务数据的共享复用"
+        },
+        {
+          "key": "C",
+          "text": "全生命周期“等分化”属性"
+        },
+        {
+          "key": "D",
+          "text": "纸质商业汇票服务功能"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 61
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r62",
+      "type": "multiple",
+      "stem": "新一代票据业务系统在___环节支持对票据分包流转使用",
+      "options": [
+        {
+          "key": "A",
+          "text": "背书"
+        },
+        {
+          "key": "B",
+          "text": "贴现"
+        },
+        {
+          "key": "C",
+          "text": "保证"
+        },
+        {
+          "key": "D",
+          "text": "质押"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 62
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r63",
+      "type": "multiple",
+      "stem": "下列关于数字票据2.0中的批量操作，说法正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票环节支持批量出票，单次最多申请50张票据"
+        },
+        {
+          "key": "B",
+          "text": "出票环节支持批量出票，单次最多申请500张票据"
+        },
+        {
+          "key": "C",
+          "text": "承兑环节，支持批量操作，单次批量上限50笔"
+        },
+        {
+          "key": "D",
+          "text": "承兑环节，支持批量操作，单次批量上限10笔"
+        },
+        {
+          "key": "E",
+          "text": "提示收票环节，支持批量操作，单次批量上限50笔"
+        }
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 63
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r64",
+      "type": "multiple",
+      "stem": "已票据账户主动管理的客户，维护账户信息时，以下哪些要素无法修改？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "名称信息"
+        },
+        {
+          "key": "B",
+          "text": "统一社会信用代码"
+        },
+        {
+          "key": "C",
+          "text": "开户机构代码"
+        },
+        {
+          "key": "D",
+          "text": "账户名称信息"
+        },
+        {
+          "key": "E",
+          "text": "账号"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 64
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r65",
+      "type": "multiple",
+      "stem": "下列关于质押业务的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "出质人办理电票的质押，应通过票交所发起质押申请，由质权人作出应答"
+        },
+        {
+          "key": "B",
+          "text": "出质人和质权人可以为同一人"
+        },
+        {
+          "key": "C",
+          "text": "已完成提示收票、记载了“不得转让”标记的票据，可以由出质人办理质押"
+        },
+        {
+          "key": "D",
+          "text": "已质押未解除的票据不可办理除质押解除外的背书、贴现、保证、交易等其他业务"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 65
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r66",
+      "type": "multiple",
+      "stem": "BoEing系统在线贴现签约需要注意的事项有哪些？",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现有效期需在票据池有效期内"
+        },
+        {
+          "key": "B",
+          "text": "录入的票据平台操作员需已经在数字票据系统建立用户"
+        },
+        {
+          "key": "C",
+          "text": "选择C3机构号时，需选择有贴现审批权限的机构"
+        },
+        {
+          "key": "D",
+          "text": "录入的C3操作员需在贴入行对应的C3机构中建立用户"
+        },
+        {
+          "key": "E",
+          "text": "票据平台操作员、C3操作员应为准入调查阶段的客户经理"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 66
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r67",
+      "type": "multiple",
+      "stem": "下面哪些业务支持批量发起？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "贴现申请"
+        },
+        {
+          "key": "B",
+          "text": "背书申请"
+        },
+        {
+          "key": "C",
+          "text": "同意清偿申请"
+        },
+        {
+          "key": "D",
+          "text": "提示收票回复"
+        }
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 67
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r68",
+      "type": "multiple",
+      "stem": "数字票据2.0中，下列哪些环节支持票据拆分？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "承兑"
+        },
+        {
+          "key": "B",
+          "text": "质押"
+        },
+        {
+          "key": "C",
+          "text": "背书"
+        },
+        {
+          "key": "D",
+          "text": "撤票"
+        },
+        {
+          "key": "E",
+          "text": "贴现"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 68
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r69",
+      "type": "multiple",
+      "stem": "下列业务中日终未应答，会清退的业务有（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "背书申请"
+        },
+        {
+          "key": "B",
+          "text": "贴现申请"
+        },
+        {
+          "key": "C",
+          "text": "提示付款申请"
+        },
+        {
+          "key": "D",
+          "text": "提示收票申请"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 69
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r70",
+      "type": "multiple",
+      "stem": "关于等分化票据的拆分规则，下列说法正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "拆分后的前面部分做相关的票据行为，后半部分继续持有"
+        },
+        {
+          "key": "B",
+          "text": "进行票据行为时必须从持有票据的子票区间开始值发起，不允许跳跃"
+        },
+        {
+          "key": "C",
+          "text": "票据行为发起即拆分,票据拆分后，不可以再合并。"
+        },
+        {
+          "key": "D",
+          "text": "发起部分票据行为时不支持拆分。"
+        },
+        {
+          "key": "E",
+          "text": "出票时可以选择是否可拆分，所以不是所有等分化票据都可以拆分。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 70
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r71",
+      "type": "multiple",
+      "stem": "已冻结票据不可办理以下哪些业务？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示收票"
+        },
+        {
+          "key": "B",
+          "text": "保证"
+        },
+        {
+          "key": "C",
+          "text": "质押"
+        },
+        {
+          "key": "D",
+          "text": "转让背书"
+        },
+        {
+          "key": "E",
+          "text": "提示付款"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 71
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r72",
+      "type": "multiple",
+      "stem": "承兑人可选择（）等方式披露商业汇票主要要素及承兑人信用信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "委托电票签约网点"
+        },
+        {
+          "key": "B",
+          "text": "自动披露"
+        },
+        {
+          "key": "C",
+          "text": "推送披露"
+        },
+        {
+          "key": "D",
+          "text": "自主填写披露"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 72
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r73",
+      "type": "multiple",
+      "stem": "以下关于数字票据2.0的说法，错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "等分化票据签约进度查询可以查询不同机构发送的业务申请处理结果，不限于本机构"
+        },
+        {
+          "key": "B",
+          "text": "在出票流程结束之后，客户经理需在数字票据2.0系统手动发起提示承兑申请。"
+        },
+        {
+          "key": "C",
+          "text": "票据签发时已经确定票据是否可拆分的属性，后续交易中无法再更改票据的拆分标志。"
+        },
+        {
+          "key": "D",
+          "text": "办理冻结登记的电票，应提供司法文书的附件批次号，且同一附件批次号最多支持十笔电票共同使用。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 73
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r74",
+      "type": "multiple",
+      "stem": "银行承兑汇票是指银行和农村信用合作社承兑的商业汇票。银行主要包括______。",
+      "options": [
+        {
+          "key": "A",
+          "text": "商业银行"
+        },
+        {
+          "key": "B",
+          "text": "农村合作银行"
+        },
+        {
+          "key": "C",
+          "text": "政策性银行"
+        },
+        {
+          "key": "D",
+          "text": "开发性银行"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 74
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r75",
+      "type": "multiple",
+      "stem": "下列关于贴现的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "已完成提示收票且未记载“不得转让”标记的票据，可以办理贴现"
+        },
+        {
+          "key": "B",
+          "text": "采用线上清算方式的，仅支持在营业日的业务时序和清算结算业务时序内办理贴现业务"
+        },
+        {
+          "key": "C",
+          "text": "计息基准为365天"
+        },
+        {
+          "key": "D",
+          "text": "贴现申请发起当日日终前，贴现申请人可以撤销待应答的贴现申请"
+        },
+        {
+          "key": "E",
+          "text": "回购式贴现可以记载“不得转让”标记"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 75
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r76",
+      "type": "multiple",
+      "stem": "新一代票据业务系统主要支持了以下哪些内容？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增等分化票据属性"
+        },
+        {
+          "key": "B",
+          "text": "更新票据状态"
+        },
+        {
+          "key": "C",
+          "text": "优化到期处理资金清算"
+        },
+        {
+          "key": "D",
+          "text": "新增冻结/冻结解除登记"
+        },
+        {
+          "key": "E",
+          "text": "企业信息报备"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 76
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r77",
+      "type": "multiple",
+      "stem": "数字票据2.0中，下列哪些是办理冻结/解除冻结的前提条件？（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有承兑行可以进行冻结解冻登记"
+        },
+        {
+          "key": "B",
+          "text": "当前票据还未结清"
+        },
+        {
+          "key": "C",
+          "text": "单次仅支持冻结/解冻单段票据"
+        },
+        {
+          "key": "D",
+          "text": "票面金额小于5000万元"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 77
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r78",
+      "type": "multiple",
+      "stem": "电票的签发业务包括（）业务流程。",
+      "options": [
+        {
+          "key": "A",
+          "text": "出票信息登记"
+        },
+        {
+          "key": "B",
+          "text": "提示承兑"
+        },
+        {
+          "key": "C",
+          "text": "提示收票"
+        },
+        {
+          "key": "D",
+          "text": "未用退回"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 78
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r79",
+      "type": "multiple",
+      "stem": "下列说法错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "构成票据逾期的，票交所暂停为其提供商业汇票承兑服务。"
+        },
+        {
+          "key": "B",
+          "text": "承兑人无逾期余额且已披露当期承兑人信用信息的，可以向市场发布公告说明逾期原因。"
+        },
+        {
+          "key": "C",
+          "text": "承兑人公告发布后或当月不构成承兑人逾期的，票交所恢复为其提供商业汇票承兑服务。"
+        },
+        {
+          "key": "D",
+          "text": "因票交所系统原因、节假日规则不一致、疫情原因、诉讼纠纷、资金账户司法冻结、不可抗力等非承兑人原因导致票据逾期的，承兑人可向票交所申请修正。"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 79
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r80",
+      "type": "multiple",
+      "stem": "下列关于贴现说法正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入账行行号与贴出人开户行为同一机构，不得选择线上清算"
+        },
+        {
+          "key": "B",
+          "text": "贴入行为接入行，贴入行账号字段应输为“0”"
+        },
+        {
+          "key": "C",
+          "text": "客户经理在C3审批付息方式选择“买方付息”，需手工录入付息人账号，目前只允许输入农行账号"
+        },
+        {
+          "key": "D",
+          "text": "贴入行选择农行的，系统默认线下清算，入账账号只允许农行账户"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 80
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r81",
+      "type": "multiple",
+      "stem": "以下哪些业务环节属于数字化票据服务平台2.0的二级市场业务？",
+      "options": [
+        {
+          "key": "A",
+          "text": "转贴现申请"
+        },
+        {
+          "key": "B",
+          "text": "转贴现回复"
+        },
+        {
+          "key": "C",
+          "text": "转贴现赎回申请"
+        },
+        {
+          "key": "D",
+          "text": "转贴现赎回回复"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 81
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r82",
+      "type": "multiple",
+      "stem": "等分化票据票样中票据状态由___和___组成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "库存状态"
+        },
+        {
+          "key": "B",
+          "text": "票据状态"
+        },
+        {
+          "key": "C",
+          "text": "流通标志"
+        },
+        {
+          "key": "D",
+          "text": "风险状态"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 82
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r83",
+      "type": "multiple",
+      "stem": "下列关于同意清偿申请的结算信息说法正确的有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "结算金额大于0，小于等于票面金额"
+        },
+        {
+          "key": "B",
+          "text": "结算方式可以选择线上清算DVP（账务自动处理）和线下清算FOP（后续需要和追索方线下沟通后自行结算）"
+        },
+        {
+          "key": "C",
+          "text": "清算类型默认全额清算"
+        },
+        {
+          "key": "D",
+          "text": "追索同意清偿申请日日终，追索人仍未对结算方式为“线下清算”的追索同意清偿申请作出应答的，票交所自动对追索同意清偿申请做清退处理。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 83
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r84",
+      "type": "multiple",
+      "stem": "当前数字票据2.0系统可受理的业务范围有哪些？",
+      "options": [
+        {
+          "key": "A",
+          "text": "“等分化票据”出票、承兑、背书、质押、保证、贴现、转贴现、再贴现、提示付款、追索等全部一、二级市场业务。"
+        },
+        {
+          "key": "B",
+          "text": "原“非等分化”电子商业汇票出票、承兑、背书、质押、保证。"
+        },
+        {
+          "key": "C",
+          "text": "原“非等分化”电子商业汇票转贴现、再贴现。"
+        },
+        {
+          "key": "D",
+          "text": "纸质商业汇票出票、质押、贴现、委托收款、追索。"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 84
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r85",
+      "type": "multiple",
+      "stem": "披露承兑人信用信息时，应当至少包含以下内容（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "累计承兑发生额"
+        },
+        {
+          "key": "B",
+          "text": "承兑余额"
+        },
+        {
+          "key": "C",
+          "text": "累计逾期发生额"
+        },
+        {
+          "key": "D",
+          "text": "持续逾期余额"
+        },
+        {
+          "key": "E",
+          "text": "逾期余额"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 85
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r86",
+      "type": "multiple",
+      "stem": "下面关于追索，说法正确的有（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "质权人可以被追索"
+        },
+        {
+          "key": "B",
+          "text": "保证人可以向被保证人追索，但为同一票据债务人担保的多个保证人之间不得追索。"
+        },
+        {
+          "key": "C",
+          "text": "已冻结票据可以办理追索"
+        },
+        {
+          "key": "D",
+          "text": "持票人对出票人、承兑人追索和再追索时效，自票据到期日起2年，且不短于持票人对其他前手的追索和再追索时效。"
+        },
+        {
+          "key": "E",
+          "text": "持票人对其他前手的再追索时效，自清偿日或被提起诉讼之日起6个月。"
+        }
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 86
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r87",
+      "type": "multiple",
+      "stem": "下列关于质押解除的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "主债务已经履行完毕的，质权人应按约定解除质押"
+        },
+        {
+          "key": "B",
+          "text": "主债务到期日先于票据到期日，且主债务已经履行完毕的，质权人应按约定解除质押。"
+        },
+        {
+          "key": "C",
+          "text": "票据到期日先于主债务到期日的，质权人可以行使票据权利，在票据到期后发起提示付款、追索。"
+        },
+        {
+          "key": "D",
+          "text": "票据到期提示付款被拒付后，质权人也可以按约定解除质押。"
+        },
+        {
+          "key": "E",
+          "text": "票据到期日日终仍未完成质押解除应答的，票交所对质押解除申请做清退处理。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 87
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r88",
+      "type": "multiple",
+      "stem": "下列关于冻结登记的说法，正确的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "提示付款应答同意后，只要清算结算未完成，仍办理冻结登记"
+        },
+        {
+          "key": "B",
+          "text": "冻结登记完成后冻结控制即时生效"
+        },
+        {
+          "key": "C",
+          "text": "登记人应提示冻结机关先查明持票人，再视情况决定是否进行票据冻结登记"
+        },
+        {
+          "key": "D",
+          "text": "已办理冻结登记的票据，即时起不可进行背书、贴现、保证、质押、提示付款、追索等业务处理。"
+        }
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 88
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r89",
+      "type": "multiple",
+      "stem": "在数字票据2.0系统，下列哪些业务不支持票据拆分？",
+      "options": [
+        {
+          "key": "A",
+          "text": "冻结/解除冻结登记申请"
+        },
+        {
+          "key": "B",
+          "text": "追索"
+        },
+        {
+          "key": "C",
+          "text": "提示付款"
+        },
+        {
+          "key": "D",
+          "text": "转贴现"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 89
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r90",
+      "type": "multiple",
+      "stem": "《中国农业银行商业汇票银行承兑业务管理办法》中明确，经营行有下列情形之一的，上级行（信用管理部门）应暂停其办理承兑业务资格：（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "交易背景真实性管理存在严重问题的"
+        },
+        {
+          "key": "B",
+          "text": "越权办理承兑业务的"
+        },
+        {
+          "key": "C",
+          "text": "承兑垫付率超过上级行规定的"
+        },
+        {
+          "key": "D",
+          "text": "对办理承兑业务中出现的重大问题隐瞒不报，造成资金风险和损失的"
+        },
+        {
+          "key": "E",
+          "text": "有持续逾期行为发生的"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 90
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r91",
+      "type": "multiple",
+      "stem": "商业承兑汇票承兑人应为在中华人民共和国境内依法设立的（）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "法人及其分支机构"
+        },
+        {
+          "key": "B",
+          "text": "个体工商户"
+        },
+        {
+          "key": "C",
+          "text": "非法人组织"
+        },
+        {
+          "key": "D",
+          "text": "以上都包括"
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 91
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r92",
+      "type": "multiple",
+      "stem": "新一代票据业务系统追索流程的优化点有哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "追索通知可以多笔发起。"
+        },
+        {
+          "key": "B",
+          "text": "贴现前追索新增线上清算方式。"
+        },
+        {
+          "key": "C",
+          "text": "被追索人可对发起追索的票据包分包发起同意清偿申请。"
+        },
+        {
+          "key": "D",
+          "text": "贴现后的持票人在向贴现行线上追偿失败情况后，可跳过贴现行直接向前手发起追索。"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 92
+      }
+    },
+    {
+      "id": "bills-mock-multiple-r93",
+      "type": "multiple",
+      "stem": "下列关于“不得转让”标记撤销的说法，错误的是（）",
+      "options": [
+        {
+          "key": "A",
+          "text": "背书人在票据上记载了“不得转让”标记的，原背书人可以发起不得转让撤销申请，申请撤销“不得转让”标记"
+        },
+        {
+          "key": "B",
+          "text": "“不得转让”标记撤销应在票据到期日前完成，票据的票面到期日日终仍未完成“不得转让”标记撤销申请应答的，票交所对申请做清退处理。"
+        },
+        {
+          "key": "C",
+          "text": "已撤销“不得转让”标记的票据可以继续流转"
+        },
+        {
+          "key": "D",
+          "text": "“不得转让”标记撤销业务的申请日期应早于票据的票面到期日。"
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "多选",
+        "row": 93
+      }
+    },
+    {
+      "id": "bills-mock-judge-r2",
+      "type": "judge",
+      "stem": "出票信息登记成功的电票，可直接向收款人发起提示收票申请，由收款人作出应答。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 2
+      }
+    },
+    {
+      "id": "bills-mock-judge-r3",
+      "type": "judge",
+      "stem": "承兑人在票据到期后拒绝付款不构成票据逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 3
+      }
+    },
+    {
+      "id": "bills-mock-judge-r4",
+      "type": "judge",
+      "stem": "机构信息管理包括名称、代码、账户、管理等信息，机构信息管理操作目前仅有查询。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 4
+      }
+    },
+    {
+      "id": "bills-mock-judge-r5",
+      "type": "judge",
+      "stem": "等分化票据的票据号码由票据（包）号加子票区间组成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 5
+      }
+    },
+    {
+      "id": "bills-mock-judge-r6",
+      "type": "judge",
+      "stem": "不得转让标记取消后，改变票据持票人，且后续转让时不再标记“不得转让”标志。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 6
+      }
+    },
+    {
+      "id": "bills-mock-judge-r7",
+      "type": "judge",
+      "stem": "追索人可以同时向多个被追索人发出追索通知。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 7
+      }
+    },
+    {
+      "id": "bills-mock-judge-r8",
+      "type": "judge",
+      "stem": "户名变更后，在BoEing系统中操作4C400交易变更电票签约户名后，户名即变更成功，无需确认票交所报文。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 8
+      }
+    },
+    {
+      "id": "bills-mock-judge-r9",
+      "type": "judge",
+      "stem": "贴现申请当日日终，贴入人未应答的，票交所自动清退待应答的贴现申请，并通知贴现申请人和贴入人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 9
+      }
+    },
+    {
+      "id": "bills-mock-judge-r10",
+      "type": "judge",
+      "stem": "机构权限不可直接维护，只能通过机构角色进行权限套用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 10
+      }
+    },
+    {
+      "id": "bills-mock-judge-r11",
+      "type": "judge",
+      "stem": "金融机构的总部办理承兑、贴现、质押、保证以及交易等票据业务，非法人产品办理转贴现等票据交易业务，作为直接参与者加入票交所；金融机构的总部授权分支机构，作为间接参与者加入票交所。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 11
+      }
+    },
+    {
+      "id": "bills-mock-judge-r12",
+      "type": "judge",
+      "stem": "在BoEing系统等分化票据签约交易中，输入查询条件或直接点击查询按钮，查询本机构所有等分化票据签约客户情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 12
+      }
+    },
+    {
+      "id": "bills-mock-judge-r13",
+      "type": "judge",
+      "stem": "持票人提前提示付款的，承兑人可以在票据到期日前拒绝付款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 13
+      }
+    },
+    {
+      "id": "bills-mock-judge-r14",
+      "type": "judge",
+      "stem": "承兑行不得因持票人超出票据权利时效（到期日起三年）未提示付款将兑付资金退还出票人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 14
+      }
+    },
+    {
+      "id": "bills-mock-judge-r15",
+      "type": "judge",
+      "stem": "背书转让申请分为单笔和批量申请，等分化票据目前仅支持单笔发起。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 15
+      }
+    },
+    {
+      "id": "bills-mock-judge-r16",
+      "type": "judge",
+      "stem": "我行签约客户签发的商承，未经贴现，到期收到提示付款申请后，如由柜面应答，则从网点4646专户扣款，需提前将客户资金转至4646专户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 16
+      }
+    },
+    {
+      "id": "bills-mock-judge-r17",
+      "type": "judge",
+      "stem": "经上级行审批同意后，可以为经营行所在省（自治区、直辖市）以外地区注册企业办理承兑业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 17
+      }
+    },
+    {
+      "id": "bills-mock-judge-r18",
+      "type": "judge",
+      "stem": "金融机构、持票企业或其他社会公众需在票据披露平台注册后，通过票据号码、企业名称或统一社会信用代码对披露信息进行查询。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 18
+      }
+    },
+    {
+      "id": "bills-mock-judge-r19",
+      "type": "judge",
+      "stem": "数字化票据服务平台2.0机构管理采取“单人操作”模式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 19
+      }
+    },
+    {
+      "id": "bills-mock-judge-r20",
+      "type": "judge",
+      "stem": "客服经理在BoEing系统中点击“结算服务—商业汇票—收费”交易，收取等分化票据承兑手续费等费用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 20
+      }
+    },
+    {
+      "id": "bills-mock-judge-r21",
+      "type": "judge",
+      "stem": "等分化票据出票时可以选择是否可拆分，不是所有等分化票据都可以拆分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 21
+      }
+    },
+    {
+      "id": "bills-mock-judge-r22",
+      "type": "judge",
+      "stem": "对于持票人在银行承兑汇票到期日前提示付款，承兑人在票据到期日次日（遇法定休息日、大额支付系统非营业日、电子商业汇票系统非营业日顺延）仍未应答的，也会被记录为逾期行为。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 22
+      }
+    },
+    {
+      "id": "bills-mock-judge-r23",
+      "type": "judge",
+      "stem": "供应链票据不属于电子商业汇票。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 23
+      }
+    },
+    {
+      "id": "bills-mock-judge-r24",
+      "type": "judge",
+      "stem": "通过数字票据2.0系统发起贴现申请，日终未应答不会自动清退。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 24
+      }
+    },
+    {
+      "id": "bills-mock-judge-r25",
+      "type": "judge",
+      "stem": "户名变更后，在BoEing系统中操作4C400交易变更电票签约户名后，需要用4C002交易确认票交所变更进度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 25
+      }
+    },
+    {
+      "id": "bills-mock-judge-r26",
+      "type": "judge",
+      "stem": "6个月内发生3次以上票据逾期的，构成持续逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 26
+      }
+    },
+    {
+      "id": "bills-mock-judge-r27",
+      "type": "judge",
+      "stem": "全市场机构参与者查询交易中，输入业务办理渠道代码后点击查询即可查询全市场。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 27
+      }
+    },
+    {
+      "id": "bills-mock-judge-r28",
+      "type": "judge",
+      "stem": "出票信息登记时，登记的承兑人和收款人不能为同一人。其中，银票和财票的出票人和收款人也不能为同一人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 28
+      }
+    },
+    {
+      "id": "bills-mock-judge-r29",
+      "type": "judge",
+      "stem": "等分化票据出票时如果选择为不可以拆分，则子票区间为0。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 29
+      }
+    },
+    {
+      "id": "bills-mock-judge-r30",
+      "type": "judge",
+      "stem": "直接参与者指通过票据业务系统或票交所认可的方式，直接与票交所对接、获取票交所服务的票据当事人及其他金融业务当事主体。我行属于直接参与者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 30
+      }
+    },
+    {
+      "id": "bills-mock-judge-r31",
+      "type": "judge",
+      "stem": "承兑余额是指承兑人已承兑但未结清的商业汇票总金额。收款人未签收的商业汇票计入承兑人的累计承兑发生额和承兑余额内。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 31
+      }
+    },
+    {
+      "id": "bills-mock-judge-r32",
+      "type": "judge",
+      "stem": "等分化票据到期日以后仍可以发起解质押申请",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 32
+      }
+    },
+    {
+      "id": "bills-mock-judge-r33",
+      "type": "judge",
+      "stem": "提示付款应答同意后，只要清算结算未完成，仍办理冻结登记。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 33
+      }
+    },
+    {
+      "id": "bills-mock-judge-r34",
+      "type": "judge",
+      "stem": "根据《商业汇票信息披露操作细则》要求，商业承兑汇票承兑人需委托电票签约网点在票据信息披露平台上进行注册，注册时应当绑定电票业务账户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 34
+      }
+    },
+    {
+      "id": "bills-mock-judge-r35",
+      "type": "judge",
+      "stem": "4646D登记簿中，若未进行补录或待核销余额不等于票面金额，则提示付款回复方记账任务处理报错。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 35
+      }
+    },
+    {
+      "id": "bills-mock-judge-r36",
+      "type": "judge",
+      "stem": "目前数字化票据服务平台2.0办理出票仅支持预审批流程。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 36
+      }
+    },
+    {
+      "id": "bills-mock-judge-r37",
+      "type": "judge",
+      "stem": "贴现人办理商业汇票贴现的，应当按照人民银行规定核对票据披露信息，信息不存在或者记载事项与披露信息不一致的，不得为持票人办理贴现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 37
+      }
+    },
+    {
+      "id": "bills-mock-judge-r38",
+      "type": "judge",
+      "stem": "供应链票据资金清算是指供应链票据到期后，我行作为承兑人或持票人开户行，为客户提供的供应链票据资金兑付、资金入账等清算服务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 38
+      }
+    },
+    {
+      "id": "bills-mock-judge-r39",
+      "type": "judge",
+      "stem": "承兑汇票如果遭拒付，贴现行柜面业务操作人员应在收到拒绝付款证明的当天从贴现申请人账户内扣收票款，对尚未收回部分，按逾期贷款和信贷资产风险分类管理规定进行管理。同时立即将拒绝付款证明移交客户部门，由其对尚未收回的部分行使追索权。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 39
+      }
+    },
+    {
+      "id": "bills-mock-judge-r40",
+      "type": "judge",
+      "stem": "贴现利息=票据（包）金额*贴现利率*贴现剩余天数/365天",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 40
+      }
+    },
+    {
+      "id": "bills-mock-judge-r41",
+      "type": "judge",
+      "stem": "汇票到期兑付时，承兑行柜面业务操作人员按照柜面操作的相关规定扣划出票人账户资金（含保证金账户）支付票款，不能足额支付票款的，应及时通知客户部门，客户部门在C3系统中进行“垫款新增”操作，柜面业务操作人员履行垫款相关手续及账务处理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 41
+      }
+    },
+    {
+      "id": "bills-mock-judge-r42",
+      "type": "judge",
+      "stem": "新一代票据业务系统上线后，被追索人可对发起追索的票据包分包发起同意清偿申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 42
+      }
+    },
+    {
+      "id": "bills-mock-judge-r43",
+      "type": "judge",
+      "stem": "票据的票面到期日，出票人可以撤销待应答的提示承兑申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 43
+      }
+    },
+    {
+      "id": "bills-mock-judge-r44",
+      "type": "judge",
+      "stem": "数字票据2.0系统在票据到期日之后不能发起解质押业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 44
+      }
+    },
+    {
+      "id": "bills-mock-judge-r45",
+      "type": "judge",
+      "stem": "机构角色只能由一级分行机构管理员新建、修改和删除。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 45
+      }
+    },
+    {
+      "id": "bills-mock-judge-r46",
+      "type": "judge",
+      "stem": "质权人可以被追索。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 46
+      }
+    },
+    {
+      "id": "bills-mock-judge-r47",
+      "type": "judge",
+      "stem": "《商业承兑汇票信息披露操作细则》自2023年1月1日起施行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 47
+      }
+    },
+    {
+      "id": "bills-mock-judge-r48",
+      "type": "judge",
+      "stem": "票据信息披露平台仅对商业汇票信息披露制度正式实施后承兑的商业汇票主要要素信息和承兑人信用信息进行推送和比对。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 48
+      }
+    },
+    {
+      "id": "bills-mock-judge-r49",
+      "type": "judge",
+      "stem": "客户变更了户名，需要变更数字票据2.0的签约户名，可以向总行申请特维，后台直接变更户名。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 49
+      }
+    },
+    {
+      "id": "bills-mock-judge-r50",
+      "type": "judge",
+      "stem": "如票据已完成提示承兑，票交所将撤票结果通知承兑人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 50
+      }
+    },
+    {
+      "id": "bills-mock-judge-r51",
+      "type": "judge",
+      "stem": "办理解除冻结登记的票据，完成后即时生效，可以按照业务规则正常办理后续业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 51
+      }
+    },
+    {
+      "id": "bills-mock-judge-r52",
+      "type": "judge",
+      "stem": "出票人根据实际需要，既可以签发固定金额的票据，也可以签发由若干张标准金额电票组成的票据包，出票人如签发固定金额票据，则票据在后续流转中不可分包。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 52
+      }
+    },
+    {
+      "id": "bills-mock-judge-r53",
+      "type": "judge",
+      "stem": "票据账户主动管理是指直接参与者委托其参与者服务机构（主办机构）在票交所登记该参与者所有可办理电票业务的账户信息，同时可以对登记的账户进行业务权限管理，防范被冒名开立虚假账户风险。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 53
+      }
+    },
+    {
+      "id": "bills-mock-judge-r54",
+      "type": "judge",
+      "stem": "背书人在票据上记载了“不得转让”标记的，原背书人可以发起不得转让撤销申请，申请撤销“不得转让”标记。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 54
+      }
+    },
+    {
+      "id": "bills-mock-judge-r55",
+      "type": "judge",
+      "stem": "已贴现票据在我行系统不可发起质押申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 55
+      }
+    },
+    {
+      "id": "bills-mock-judge-r56",
+      "type": "judge",
+      "stem": "如票据已完成出票保证或承兑保证，撤票后，票交所将撤票结果通知承兑人的参与者服务机构，由参与者服务机构通知承兑人和保证人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 56
+      }
+    },
+    {
+      "id": "bills-mock-judge-r57",
+      "type": "judge",
+      "stem": "风险状态为“风险票据”的票据，也可以办理贴现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 57
+      }
+    },
+    {
+      "id": "bills-mock-judge-r58",
+      "type": "judge",
+      "stem": "数字票据2.0系统上线后，纸质商业汇票业务仍在贸易通系统处理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 58
+      }
+    },
+    {
+      "id": "bills-mock-judge-r59",
+      "type": "judge",
+      "stem": "机构权限新增为T+0生效（交易子系统T+1除外）；机构权限删除为T+0生效；机构权限删除之后，该机构下的机构用户（管理员、操作员）权限一并删除。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 59
+      }
+    },
+    {
+      "id": "bills-mock-judge-r60",
+      "type": "judge",
+      "stem": "买断式贴现和回购式贴现都可以在票据上记载“不得转让”标记。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 60
+      }
+    },
+    {
+      "id": "bills-mock-judge-r61",
+      "type": "judge",
+      "stem": "追索同意清偿申请日日终，追索人仍未对结算方式为“线上清算”的追索同意清偿申请作出应答的，票交所自动对追索同意清偿申请做清退处理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 61
+      }
+    },
+    {
+      "id": "bills-mock-judge-r62",
+      "type": "judge",
+      "stem": "数字票据2.0系统中，追索可以选择线上清算方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 62
+      }
+    },
+    {
+      "id": "bills-mock-judge-r63",
+      "type": "judge",
+      "stem": "持票人在票据到期日前未撤回提示付款且承兑人未应答的，视作持票人已在票据到期日发起提示付款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 63
+      }
+    },
+    {
+      "id": "bills-mock-judge-r64",
+      "type": "judge",
+      "stem": "财务公司所属集团法人最近2年发生持续逾期、承兑人信用信息延迟披露，重大违法行为，以及其他严重损害市场主体合法权益或社会公共利益行为的，票交所暂停为财务公司提供商业汇票承兑服务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 64
+      }
+    },
+    {
+      "id": "bills-mock-judge-r65",
+      "type": "judge",
+      "stem": "出票人在电票出票信息登记成功后、收款人对提示收票申请应答同意前，可以对电票作未用退回处理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 65
+      }
+    },
+    {
+      "id": "bills-mock-judge-r66",
+      "type": "judge",
+      "stem": "数字票据系统2.0机构层级管理用于机构层级的管理，调整机构层级关系，便于上下级管理，由机构管理员对机构层级管理维护，无需复核即可生效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 66
+      }
+    },
+    {
+      "id": "bills-mock-judge-r67",
+      "type": "judge",
+      "stem": "出票人办理电票的提示承兑，应通过票交所发起提示承兑申请，由承兑人作出应答。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 67
+      }
+    },
+    {
+      "id": "bills-mock-judge-r68",
+      "type": "judge",
+      "stem": "间接参与者办理票据的签发、背书、贴现、质押、保证等票据业务，需通过参与者服务机构加入票交所，通过参与者服务机构提供的客户终端进行业务的发起或接收，并对接收的业务申请进行查看、应答等操作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 68
+      }
+    },
+    {
+      "id": "bills-mock-judge-r69",
+      "type": "judge",
+      "stem": "申请接入数字化票据服务平台2.0的，各级行系统管理员可通过数字化票据服务平台2.0-系统管理-机构管理-机构信息管理自行确认机构是否生效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 69
+      }
+    },
+    {
+      "id": "bills-mock-judge-r70",
+      "type": "judge",
+      "stem": "电票冻结登记完成后，冻结控制当日日终生效。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 70
+      }
+    },
+    {
+      "id": "bills-mock-judge-r71",
+      "type": "judge",
+      "stem": "有权机关可以至票据持有人的开户行对某张票据进行冻结。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 71
+      }
+    },
+    {
+      "id": "bills-mock-judge-r72",
+      "type": "judge",
+      "stem": "贴现剩余天数=票据到期日-申请日期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 72
+      }
+    },
+    {
+      "id": "bills-mock-judge-r73",
+      "type": "judge",
+      "stem": "贴现包括买断式贴现和卖断式贴现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 73
+      }
+    },
+    {
+      "id": "bills-mock-judge-r74",
+      "type": "judge",
+      "stem": "客户变更了户名，申请变更数字票据2.0的签约户名前，需要将客户持有的票据全部处理完，先办理解约，再重新签约。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 74
+      }
+    },
+    {
+      "id": "bills-mock-judge-r75",
+      "type": "judge",
+      "stem": "数字票据2.0系统中的用户角色及权限由本级及上一级行管理员为用户配置对应的角色及权限，每个用户仅支持选择一个角色，用户可以选择的权限是用户所在机构权限和用户所选角色的交集。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 75
+      }
+    },
+    {
+      "id": "bills-mock-judge-r76",
+      "type": "judge",
+      "stem": "商业汇票的付款期限应当与真实交易的履行期限相匹配，自出票日起至到期日止，最长不得超过6个月。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 76
+      }
+    },
+    {
+      "id": "bills-mock-judge-r77",
+      "type": "judge",
+      "stem": "承兑人通过参与者服务机构客户终端，对收到的提示付款申请进行应答（同意或拒绝），其中，已登记止付信息或冻结信息且未解除的票据，只可应答为拒绝付款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 77
+      }
+    },
+    {
+      "id": "bills-mock-judge-r78",
+      "type": "judge",
+      "stem": "根据《商业汇票信息披露操作细则》要求，商业承兑汇票承兑人有多个电票业务账户办理票据业务的，只需要绑定有承兑余额的账户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 78
+      }
+    },
+    {
+      "id": "bills-mock-judge-r79",
+      "type": "judge",
+      "stem": "办理冻结登记的票据，应提供司法文书的附件编号， 且附件编号为第一次使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 79
+      }
+    },
+    {
+      "id": "bills-mock-judge-r80",
+      "type": "judge",
+      "stem": "票据风险状态可作为解除质押的判定条件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 80
+      }
+    },
+    {
+      "id": "bills-mock-judge-r81",
+      "type": "judge",
+      "stem": "不得办理本营业单位（签发银行承兑汇票的经营行）承兑的未经背书转让的银行承兑汇票贴现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 81
+      }
+    },
+    {
+      "id": "bills-mock-judge-r82",
+      "type": "judge",
+      "stem": "背书人在票据上记载了“不得转让”标记的，经记载人（原背书人）同意，持票人（原被背书人）可以发起不得转让撤销申请，申请撤销“不得转让”标记。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 82
+      }
+    },
+    {
+      "id": "bills-mock-judge-r83",
+      "type": "judge",
+      "stem": "目前数字票据2.0签约，能区分银承、商承签发权限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 83
+      }
+    },
+    {
+      "id": "bills-mock-judge-r84",
+      "type": "judge",
+      "stem": "商业汇票的付款期限应当与真实交易的履行期限相匹配，自出票日起至到期日止，最长不得超过1年。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 84
+      }
+    },
+    {
+      "id": "bills-mock-judge-r85",
+      "type": "judge",
+      "stem": "票据的票面到期日前（不含到期日），质权人可以撤销待应答的质押解除申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 85
+      }
+    },
+    {
+      "id": "bills-mock-judge-r86",
+      "type": "judge",
+      "stem": "票据贴现的计息期限，从贴现之日起至票据到期日止，到期日遇法定节假日不顺延。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 86
+      }
+    },
+    {
+      "id": "bills-mock-judge-r87",
+      "type": "judge",
+      "stem": "数字化票据服务平台2.0，柜面经理操作等分化票据签约客户查询，仅支持通过账户查询签约账户，无法查看网点全量签约账户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 87
+      }
+    },
+    {
+      "id": "bills-mock-judge-r88",
+      "type": "judge",
+      "stem": "以存单质押办理银行承兑汇票业务的，存单持有人仅限于出票人及其法定代表人、实际控制人、股东或关联企业。存单的资金不得来源于借贷资金或出票后贴现回流资金。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 88
+      }
+    },
+    {
+      "id": "bills-mock-judge-r89",
+      "type": "judge",
+      "stem": "非交易过户是指因法院判决、赠与等事由，业务双方通过票交所办理票据权属变更登记的行为。未记载“不得转让”标记的票据，都可以办理非交易过户。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 89
+      }
+    },
+    {
+      "id": "bills-mock-judge-r90",
+      "type": "judge",
+      "stem": "票据贴现的计息期限，从贴现之日起至票据到期日止，到期日遇法定节假日的顺延至下一自然日。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 90
+      }
+    },
+    {
+      "id": "bills-mock-judge-r91",
+      "type": "judge",
+      "stem": "6个月内发生3次以上票据逾期，构成承兑人逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 91
+      }
+    },
+    {
+      "id": "bills-mock-judge-r92",
+      "type": "judge",
+      "stem": "等分化票据签约中的商承签发控制开关，控制签约账户是否可以处理承兑回复业务。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 92
+      }
+    },
+    {
+      "id": "bills-mock-judge-r93",
+      "type": "judge",
+      "stem": "承兑人连续6个月以上未披露承兑人信用信息的，构成延迟披露。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 93
+      }
+    },
+    {
+      "id": "bills-mock-judge-r94",
+      "type": "judge",
+      "stem": "同一被保证人只有在收到保证申请回复或撤销保证申请后，才能向其他保证人发起保证申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 94
+      }
+    },
+    {
+      "id": "bills-mock-judge-r95",
+      "type": "judge",
+      "stem": "承兑保证可以部分保证。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 95
+      }
+    },
+    {
+      "id": "bills-mock-judge-r96",
+      "type": "judge",
+      "stem": "数字票据2.0系统的用户角色及权限由本级及上一级行管理员为用户配置对应的角色及权限，每个用户可选择多个角色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 96
+      }
+    },
+    {
+      "id": "bills-mock-judge-r97",
+      "type": "judge",
+      "stem": "贴现票据在票交所规则允许质押，但是我行业务规定不允许质押已贴现的票据。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 97
+      }
+    },
+    {
+      "id": "bills-mock-judge-r98",
+      "type": "judge",
+      "stem": "承兑人在票据到期后拒绝付款或未按规定及时结清票据的构成票据逾期。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 98
+      }
+    },
+    {
+      "id": "bills-mock-judge-r99",
+      "type": "judge",
+      "stem": "同一张票据，我行系统控制不得对同一客户发起多次追索。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 99
+      }
+    },
+    {
+      "id": "bills-mock-judge-r100",
+      "type": "judge",
+      "stem": "在票据的票面到期日前，持票人可将其持有的无在途业务且未质押的票据向承兑人发起提前提示付款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 100
+      }
+    },
+    {
+      "id": "bills-mock-judge-r101",
+      "type": "judge",
+      "stem": "持票人提前提示付款的，承兑人不得拒绝付款，在票据到期日按时付款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 101
+      }
+    },
+    {
+      "id": "bills-mock-judge-r102",
+      "type": "judge",
+      "stem": "票据完成出票信息登记后，且未完成提示收票，可以发起撤票申请。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 102
+      }
+    },
+    {
+      "id": "bills-mock-judge-r103",
+      "type": "judge",
+      "stem": "《商业汇票承兑、贴现与再贴现管理办法》指出，供应链票据属于电子商业汇票。",
+      "options": [
+        {
+          "key": "A",
+          "text": "正确"
+        },
+        {
+          "key": "B",
+          "text": "错误"
+        }
+      ],
+      "answers": [
+        "A"
+      ],
+      "explanation": "",
+      "difficulty": "",
+      "tags": [
+        "票据业务",
+        "模拟题"
+      ],
+      "source": {
+        "file": "票据模拟题.et",
+        "sheet": "判断",
+        "row": 103
+      }
+    }
+  ]
+}
