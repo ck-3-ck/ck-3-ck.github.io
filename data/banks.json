@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T14:07:19.5690769Z",
+  "generatedAt": "2026-10-26T14:29:51.447Z",
   "banks": [
     {
       "id": "super-counter-20261026",
@@ -24,6 +24,20 @@
         "single": 522,
         "multiple": 469,
         "judge": 509
+      }
+    },
+    {
+      "id": "transaction-codes-20261026",
+      "name": "交易码专项（看名称填交易码）",
+      "sourceFile": "微信图片_20261026214836_2972_1.jpg；微信图片_20261026214835_2971_1.jpg",
+      "sourceFiles": [
+        "微信图片_20261026214836_2972_1.jpg",
+        "微信图片_20261026214835_2971_1.jpg"
+      ],
+      "count": 149,
+      "dataFile": "/data/banks/transaction-codes-20261026.json",
+      "typeCounts": {
+        "fill": 149
       }
     }
   ]

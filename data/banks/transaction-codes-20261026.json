@@ -1,0 +1,2395 @@
+{
+  "id": "transaction-codes-20261026",
+  "name": "交易码专项（看名称填交易码）",
+  "sourceFile": "微信图片_20261026214836_2972_1.jpg；微信图片_20261026214835_2971_1.jpg",
+  "sourceFiles": [
+    "微信图片_20261026214836_2972_1.jpg",
+    "微信图片_20261026214835_2971_1.jpg"
+  ],
+  "questions": [
+    {
+      "id": "transaction-codes-20261026-1",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人关键信息修改”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10200"
+      ],
+      "explanation": "交易名称：个人关键信息修改；交易码：10200。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 1
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-2",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人基本信息管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10400"
+      ],
+      "explanation": "交易名称：个人基本信息管理；交易码：10400。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 2
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-3",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人账户重归户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10401"
+      ],
+      "explanation": "交易名称：个人账户重归户；交易码：10401。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 3
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-4",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人客户管控白名单管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10406"
+      ],
+      "explanation": "交易名称：个人客户管控白名单管理；交易码：10406。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 4
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-5",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人重点关注账户管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10407"
+      ],
+      "explanation": "交易名称：个人重点关注账户管理；交易码：10407。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 5
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-6",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人重点关注客户管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "10408"
+      ],
+      "explanation": "交易名称：个人重点关注客户管理；交易码：10408。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 6
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-7",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公客户基本信息查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11000"
+      ],
+      "explanation": "交易名称：对公客户基本信息查询；交易码：11000。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 7
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-8",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公客户名称信息管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11401"
+      ],
+      "explanation": "交易名称：对公客户名称信息管理；交易码：11401。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 8
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-9",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公客户证明材料信息管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11406"
+      ],
+      "explanation": "交易名称：对公客户证明材料信息管理；交易码：11406。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 9
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-10",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公客户信息快捷管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11408"
+      ],
+      "explanation": "交易名称：对公客户信息快捷管理；交易码：11408。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 10
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-11",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公重点关注账户管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11422"
+      ],
+      "explanation": "交易名称：对公重点关注账户管理；交易码：11422。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 11
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-12",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公重点关注客户管理交易”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "11423"
+      ],
+      "explanation": "交易名称：对公重点关注客户管理交易；交易码：11423。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 12
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-13",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人业务查询管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20055"
+      ],
+      "explanation": "交易名称：个人业务查询管理；交易码：20055。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 13
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-14",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人账户开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20101"
+      ],
+      "explanation": "交易名称：个人账户开户；交易码：20101。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 14
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-15",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“子账户开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20102"
+      ],
+      "explanation": "交易名称：子账户开户；交易码：20102。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 15
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-16",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“卡折存款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20204"
+      ],
+      "explanation": "交易名称：卡折存款；交易码：20204。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 16
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-17",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“卡折取款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20205"
+      ],
+      "explanation": "交易名称：卡折取款；交易码：20205。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 17
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-18",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“卡折转账”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20206"
+      ],
+      "explanation": "交易名称：卡折转账；交易码：20206。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 18
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-19",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡换卡”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20214"
+      ],
+      "explanation": "交易名称：借记卡换卡；交易码：20214。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 19
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-20",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“换折”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20215"
+      ],
+      "explanation": "交易名称：换折；交易码：20215。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 20
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-21",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡激活”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20219"
+      ],
+      "explanation": "交易名称：借记卡激活；交易码：20219。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 21
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-22",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡零余额集中销户激活”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20220"
+      ],
+      "explanation": "交易名称：借记卡零余额集中销户激活；交易码：20220。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 22
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-23",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“睡眠户激活”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20222"
+      ],
+      "explanation": "交易名称：睡眠户激活；交易码：20222。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 23
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-24",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“单折批量、代理开户激活”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20225"
+      ],
+      "explanation": "交易名称：单折批量、代理开户激活；交易码：20225。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 24
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-25",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“补登折”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20229"
+      ],
+      "explanation": "交易名称：补登折；交易码：20229。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 25
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-26",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“单折书面挂失补发”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20232"
+      ],
+      "explanation": "交易名称：单折书面挂失补发；交易码：20232。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 26
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-27",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“银行卡书面挂失补发”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20233"
+      ],
+      "explanation": "交易名称：银行卡书面挂失补发；交易码：20233。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 27
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-28",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“银行卡书面挂失销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20234"
+      ],
+      "explanation": "交易名称：银行卡书面挂失销户；交易码：20234。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 28
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-29",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人密码挂失重置”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20237"
+      ],
+      "explanation": "交易名称：个人密码挂失重置；交易码：20237。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 29
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-30",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“销卡折凭证”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20242"
+      ],
+      "explanation": "交易名称：销卡折凭证；交易码：20242。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 30
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-31",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“批量挂失销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20246"
+      ],
+      "explanation": "交易名称：批量挂失销户；交易码：20246。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 31
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-32",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“销挂失卡折凭证”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20249"
+      ],
+      "explanation": "交易名称：销挂失卡折凭证；交易码：20249。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 32
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-33",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人大额存单转账销户/部提”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20300"
+      ],
+      "explanation": "交易名称：个人大额存单转账销户/部提；交易码：20300。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 33
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-34",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡主卡销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20302"
+      ],
+      "explanation": "交易名称：借记卡主卡销户；交易码：20302。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 34
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-35",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡子账户销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20303"
+      ],
+      "explanation": "交易名称：借记卡子账户销户；交易码：20303。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 35
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-36",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“存单销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20304"
+      ],
+      "explanation": "交易名称：存单销户；交易码：20304。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 36
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-37",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“定期一本通子账户销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20306"
+      ],
+      "explanation": "交易名称：定期一本通子账户销户；交易码：20306。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 37
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-38",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“整整存单现金销户转开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20307"
+      ],
+      "explanation": "交易名称：整整存单现金销户转开户；交易码：20307。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 38
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-39",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“子账户移入移出”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20309"
+      ],
+      "explanation": "交易名称：子账户移入移出；交易码：20309。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 39
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-40",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“部提”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20314"
+      ],
+      "explanation": "交易名称：部提；交易码：20314。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "左栏",
+        "sequence": 40
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-41",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人账户冻结”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20400"
+      ],
+      "explanation": "交易名称：个人账户冻结；交易码：20400。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 41
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-42",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“密码管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20404"
+      ],
+      "explanation": "交易名称：密码管理；交易码：20404。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 42
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-43",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人合约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20405"
+      ],
+      "explanation": "交易名称：个人合约管理；交易码：20405。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 43
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-44",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡对账折管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20410"
+      ],
+      "explanation": "交易名称：借记卡对账折管理；交易码：20410。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 44
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-45",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡交易安全锁管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "20472"
+      ],
+      "explanation": "交易名称：借记卡交易安全锁管理；交易码：20472。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 45
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-46",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“账户明细查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21003"
+      ],
+      "explanation": "交易名称：账户明细查询；交易码：21003。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 46
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-47",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“待清理不动户查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21041"
+      ],
+      "explanation": "交易名称：待清理不动户查询；交易码：21041。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 47
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-48",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“落地业务查询/打印”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21043"
+      ],
+      "explanation": "交易名称：落地业务查询/打印；交易码：21043。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 48
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-49",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“活期账户查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21073"
+      ],
+      "explanation": "交易名称：活期账户查询；交易码：21073。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 49
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-50",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公账户回单查询打印”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21081"
+      ],
+      "explanation": "交易名称：对公账户回单查询打印；交易码：21081。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 50
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-51",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“活期账户开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21100"
+      ],
+      "explanation": "交易名称：活期账户开户；交易码：21100。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 51
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-52",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“活期账户启用”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21101"
+      ],
+      "explanation": "交易名称：活期账户启用；交易码：21101。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 52
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-53",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“建立结算套餐”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21114"
+      ],
+      "explanation": "交易名称：建立结算套餐；交易码：21114。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 53
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-54",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公非活期存款转账开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21116"
+      ],
+      "explanation": "交易名称：对公非活期存款转账开户；交易码：21116。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 54
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-55",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“现金业务”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21200"
+      ],
+      "explanation": "交易名称：现金业务；交易码：21200。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 55
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-56",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“转账业务”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21201"
+      ],
+      "explanation": "交易名称：转账业务；交易码：21201。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 56
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-57",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公活期账户强制扣划”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21202"
+      ],
+      "explanation": "交易名称：对公活期账户强制扣划；交易码：21202。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 57
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-58",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“冲正”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21203"
+      ],
+      "explanation": "交易名称：冲正；交易码：21203。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 58
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-59",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“清息”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21205"
+      ],
+      "explanation": "交易名称：清息；交易码：21205。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 59
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-60",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公活期账户与通用核算账户互转”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21207"
+      ],
+      "explanation": "交易名称：对公活期账户与通用核算账户互转；交易码：21207。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 60
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-61",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“支付指令撤销”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21233"
+      ],
+      "explanation": "交易名称：支付指令撤销；交易码：21233。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 61
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-62",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“长期不动户恢复”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21234"
+      ],
+      "explanation": "交易名称：长期不动户恢复；交易码：21234。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 62
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-63",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公账户利息冲正”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21236"
+      ],
+      "explanation": "交易名称：对公账户利息冲正；交易码：21236。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 63
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-64",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“活期账户销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21300"
+      ],
+      "explanation": "交易名称：活期账户销户；交易码：21300。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 64
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-65",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公非活期存款转账销户/部提”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21303"
+      ],
+      "explanation": "交易名称：对公非活期存款转账销户/部提；交易码：21303。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 65
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-66",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“长期不动户核销”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21311"
+      ],
+      "explanation": "交易名称：长期不动户核销；交易码：21311。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 66
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-67",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“账户信息维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21400"
+      ],
+      "explanation": "交易名称：账户信息维护；交易码：21400。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 67
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-68",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“录入处理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21403"
+      ],
+      "explanation": "交易名称：录入处理；交易码：21403。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 68
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-69",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“通知存款通知维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21404"
+      ],
+      "explanation": "交易名称：通知存款通知维护；交易码：21404。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 69
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-70",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公活期账户冻结续冻解冻”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21409"
+      ],
+      "explanation": "交易名称：对公活期账户冻结续冻解冻；交易码：21409。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 70
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-71",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“对公非活期账户冻结续冻解冻”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21410"
+      ],
+      "explanation": "交易名称：对公非活期账户冻结续冻解冻；交易码：21410。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 71
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-72",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“待清理不动户维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21431"
+      ],
+      "explanation": "交易名称：待清理不动户维护；交易码：21431。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 72
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-73",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“不动户性质维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "21432"
+      ],
+      "explanation": "交易名称：不动户性质维护；交易码：21432。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 73
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-74",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“保证金开户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "22100"
+      ],
+      "explanation": "交易名称：保证金开户；交易码：22100。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 74
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-75",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“保证金支付”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "22201"
+      ],
+      "explanation": "交易名称：保证金支付；交易码：22201。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 75
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-76",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“保证金续存”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "22203"
+      ],
+      "explanation": "交易名称：保证金续存；交易码：22203。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 76
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-77",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“保证金销户”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "22300"
+      ],
+      "explanation": "交易名称：保证金销户；交易码：22300。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 77
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-78",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“贷款放款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31100"
+      ],
+      "explanation": "交易名称：贷款放款；交易码：31100。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 78
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-79",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“自助贷款放款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31101"
+      ],
+      "explanation": "交易名称：自助贷款放款；交易码：31101。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 79
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-80",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“正常/超期还款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31201"
+      ],
+      "explanation": "交易名称：正常/超期还款；交易码：31201。",
+      "source": {
+        "file": "微信图片_20261026214836_2972_1.jpg",
+        "section": "右栏",
+        "sequence": 80
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-81",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“提前还款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31202"
+      ],
+      "explanation": "交易名称：提前还款；交易码：31202。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 81
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-82",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“贷款展期”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31207"
+      ],
+      "explanation": "交易名称：贷款展期；交易码：31207。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 82
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-83",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“贷款要素调整”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31208"
+      ],
+      "explanation": "交易名称：贷款要素调整；交易码：31208。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 83
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-84",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“贷款利息冲正”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31218"
+      ],
+      "explanation": "交易名称：贷款利息冲正；交易码：31218。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 84
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-85",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“贷款涉税专户账务处理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "31238"
+      ],
+      "explanation": "交易名称：贷款涉税专户账务处理；交易码：31238。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 85
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-86",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿信息查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40002"
+      ],
+      "explanation": "交易名称：多级账簿信息查询；交易码：40002。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 86
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-87",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿明细查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40003"
+      ],
+      "explanation": "交易名称：多级账簿明细查询；交易码：40003。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 87
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-88",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“单位结算卡开卡”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40105"
+      ],
+      "explanation": "交易名称：单位结算卡开卡；交易码：40105。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 88
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-89",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“单位结算卡现金存款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40109"
+      ],
+      "explanation": "交易名称：单位结算卡现金存款；交易码：40109。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 89
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-90",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿余额调整”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40203"
+      ],
+      "explanation": "交易名称：多级账簿余额调整；交易码：40203。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 90
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-91",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“单位结算卡现金取款”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40213"
+      ],
+      "explanation": "交易名称：单位结算卡现金取款；交易码：40213。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 91
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-92",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿开通/关闭”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40404"
+      ],
+      "explanation": "交易名称：多级账簿开通/关闭；交易码：40404。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 92
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-93",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿指定关系管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40405"
+      ],
+      "explanation": "交易名称：多级账簿指定关系管理；交易码：40405。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 93
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-94",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40407"
+      ],
+      "explanation": "交易名称：多级账簿维护；交易码：40407。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 94
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-95",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“多级账簿支付限额维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "40420"
+      ],
+      "explanation": "交易名称：多级账簿支付限额维护；交易码：40420。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 95
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-96",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“未处理报单查询”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41013"
+      ],
+      "explanation": "交易名称：未处理报单查询；交易码：41013。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 96
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-97",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“录入大额贷记”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41101"
+      ],
+      "explanation": "交易名称：录入大额贷记；交易码：41101。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 97
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-98",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“确认大额贷记”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41102"
+      ],
+      "explanation": "交易名称：确认大额贷记；交易码：41102。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 98
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-99",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“往账录入”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41110"
+      ],
+      "explanation": "交易名称：往账录入；交易码：41110。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 99
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-100",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“银行本票签发”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41120"
+      ],
+      "explanation": "交易名称：银行本票签发；交易码：41120。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 100
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-101",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“银行汇票签发”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41130"
+      ],
+      "explanation": "交易名称：银行汇票签发；交易码：41130。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 101
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-102",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“往账确认”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41210"
+      ],
+      "explanation": "交易名称：往账确认；交易码：41210。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 102
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-103",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“来账凭证生成及核销”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41213"
+      ],
+      "explanation": "交易名称：来账凭证生成及核销；交易码：41213。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 103
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-104",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“银行汇票兑付”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41230"
+      ],
+      "explanation": "交易名称：银行汇票兑付；交易码：41230。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 104
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-105",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“跨行兑付银行本票”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "41651"
+      ],
+      "explanation": "交易名称：跨行兑付银行本票；交易码：41651。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 105
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-106",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“外汇兑换”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "42601"
+      ],
+      "explanation": "交易名称：外汇兑换；交易码：42601。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 106
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-107",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人电子银行合约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46401"
+      ],
+      "explanation": "交易名称：个人电子银行合约管理；交易码：46401。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 107
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-108",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“K令设备管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46404"
+      ],
+      "explanation": "交易名称：K令设备管理；交易码：46404。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 108
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-109",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“K令登记/更换”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46405"
+      ],
+      "explanation": "交易名称：K令登记/更换；交易码：46405。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 109
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-110",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“证书管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46406"
+      ],
+      "explanation": "交易名称：证书管理；交易码：46406。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 110
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-111",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人电子银行合约暂停/注销”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46407"
+      ],
+      "explanation": "交易名称：个人电子银行合约暂停/注销；交易码：46407。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 111
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-112",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人消息服务合约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46417"
+      ],
+      "explanation": "交易名称：个人消息服务合约管理；交易码：46417。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 112
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-113",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“金融服务平台签约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46457"
+      ],
+      "explanation": "交易名称：金融服务平台签约管理；交易码：46457。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 113
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-114",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“金融服务平台账户管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46459"
+      ],
+      "explanation": "交易名称：金融服务平台账户管理；交易码：46459。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 114
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-115",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“金融服务平台操作员管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46462"
+      ],
+      "explanation": "交易名称：金融服务平台操作员管理；交易码：46462。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 115
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-116",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“金融服务平台操作员证书管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46463"
+      ],
+      "explanation": "交易名称：金融服务平台操作员证书管理；交易码：46463。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 116
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-117",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“新版企业网银代付业务管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "46465"
+      ],
+      "explanation": "交易名称：新版企业网银代付业务管理；交易码：46465。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 117
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-118",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“建立委托缴款三方协议”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "4B100"
+      ],
+      "explanation": "交易名称：建立委托缴款三方协议；交易码：4B100。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 118
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-119",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“基金购买”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50100"
+      ],
+      "explanation": "交易名称：基金购买；交易码：50100。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 119
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-120",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“理财认购申购”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50120"
+      ],
+      "explanation": "交易名称：理财认购申购；交易码：50120。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "左栏",
+        "sequence": 120
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-121",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“基金赎回”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50300"
+      ],
+      "explanation": "交易名称：基金赎回；交易码：50300。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 121
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-122",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“理财赎回”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50320"
+      ],
+      "explanation": "交易名称：理财赎回；交易码：50320。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 122
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-123",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“理财合约注销”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50323"
+      ],
+      "explanation": "交易名称：理财合约注销；交易码：50323。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 123
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-124",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“基金签约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50400"
+      ],
+      "explanation": "交易名称：基金签约管理；交易码：50400。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 124
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-125",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“基金TA账户签约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50401"
+      ],
+      "explanation": "交易名称：基金TA账户签约管理；交易码：50401。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 125
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-126",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“基金定投管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50402"
+      ],
+      "explanation": "交易名称：基金定投管理；交易码：50402。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 126
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-127",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“货币基金理财管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50404"
+      ],
+      "explanation": "交易名称：货币基金理财管理；交易码：50404。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 127
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-128",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“理财签约管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "50420"
+      ],
+      "explanation": "交易名称：理财签约管理；交易码：50420。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 128
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-129",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“国债购买”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "51100"
+      ],
+      "explanation": "交易名称：国债购买；交易码：51100。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 129
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-130",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“支票类凭证出售”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61201"
+      ],
+      "explanation": "交易名称：支票类凭证出售；交易码：61201。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 130
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-131",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“支票类凭证收回作废”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61301"
+      ],
+      "explanation": "交易名称：支票类凭证收回作废；交易码：61301。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 131
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-132",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“用户入库/领入现金”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61601"
+      ],
+      "explanation": "交易名称：用户入库/领入现金；交易码：61601。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 132
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-133",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“用户现金箱清点”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61606"
+      ],
+      "explanation": "交易名称：用户现金箱清点；交易码：61606。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 133
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-134",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“用户收缴假币”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61610"
+      ],
+      "explanation": "交易名称：用户收缴假币；交易码：61610。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 134
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-135",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“用户领入/上缴凭证”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61704"
+      ],
+      "explanation": "交易名称：用户领入/上缴凭证；交易码：61704。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 135
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-136",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“凭证手工销号”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "61708"
+      ],
+      "explanation": "交易名称：凭证手工销号；交易码：61708。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 136
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-137",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“通用分户现金业务”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "62264"
+      ],
+      "explanation": "交易名称：通用分户现金业务；交易码：62264。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 137
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-138",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“通用分户转账业务”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "62265"
+      ],
+      "explanation": "交易名称：通用分户转账业务；交易码：62265。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 138
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-139",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“集中对账服务签约”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "63110"
+      ],
+      "explanation": "交易名称：集中对账服务签约；交易码：63110。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 139
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-140",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“个人外汇外管用户管理”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "63450"
+      ],
+      "explanation": "交易名称：个人外汇外管用户管理；交易码：63450。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 140
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-141",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“增加个人账户年费/管理费同时减免登记”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "64101"
+      ],
+      "explanation": "交易名称：增加个人账户年费/管理费同时减免登记；交易码：64101。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 141
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-142",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“借记卡年费信息维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "64401"
+      ],
+      "explanation": "交易名称：借记卡年费信息维护；交易码：64401。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 142
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-143",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“联机收费”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "64920"
+      ],
+      "explanation": "交易名称：联机收费；交易码：64920。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 143
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-144",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“联机退费”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "64921"
+      ],
+      "explanation": "交易名称：联机退费；交易码：64921。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 144
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-145",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“欠费补缴”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "64922"
+      ],
+      "explanation": "交易名称：欠费补缴；交易码：64922。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 145
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-146",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“卡片领取”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "71101"
+      ],
+      "explanation": "交易名称：卡片领取；交易码：71101。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 146
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-147",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“激活”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "71201"
+      ],
+      "explanation": "交易名称：激活；交易码：71201。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 147
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-148",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“约定还款维护”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "71207"
+      ],
+      "explanation": "交易名称：约定还款维护；交易码：71207。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 148
+      }
+    },
+    {
+      "id": "transaction-codes-20261026-149",
+      "type": "fill",
+      "answerFormat": "transaction-code",
+      "stem": "“现金分期申请”的交易码是：____。",
+      "options": [],
+      "answers": [
+        "72103"
+      ],
+      "explanation": "交易名称：现金分期申请；交易码：72103。",
+      "source": {
+        "file": "微信图片_20261026214835_2971_1.jpg",
+        "section": "右栏",
+        "sequence": 149
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-const CACHE_NAME = "pocket-quiz-v20-october-v170";
+const CACHE_NAME = "pocket-quiz-v21-transaction-codes-v180";
 const scopedAsset = (path) => new URL(path.replace(/^\/+/, ""), self.registration.scope).toString();
 const APP_SHELL = scopedAsset("./");
 const CORE_ASSETS = [
@@ -12,6 +12,7 @@ const CORE_ASSETS = [
   "apple-touch-icon.png",
   "data/banks/super-counter-20261026.json",
   "data/banks/customer-manager-2026-20261026.json",
+  "data/banks/transaction-codes-20261026.json",
 ].map(scopedAsset);
 
 async function appShellFallback(response) {
